@@ -422,3 +422,10 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | interpunctio | pointing | of the Hebrew text | Ps 19 |
 | Noster (the Vulgate translator) | our Interpreter | as "noster Interpres" | Ps 19 |
 | fausta precatio | prayer of good omen | | Ps 19 |
+| mala pœnæ | the evils of punishment | | Ps 20 |
+| declinaverunt in te mala (Ps. xx, 11) | they have intended evils against thee | Douay-Rheims, Latin beside it with "turned aside" where he presses the word | Ps 20 |
+| pones eos dorsum (Ps. xx, 12) | thou shalt make them turn their back | Douay-Rheims, Latin beside it with "make them a back" for his own sense | Ps 20 |
+| in tempore vultus tui (Ps. xx, 9) | in the time of thy anger | Douay-Rheims, Latin beside it once | Ps 20 |
+| reliquiæ | remnants; a remnant (Rom. ix, 27) | | Ps 20 |
+| hyperbaton | hyperbaton | kept | Ps 20 |
+| virtus (Ps. xx, 1 and 13) | strength; power (virtutes tuas) | Douay-Rheims | Ps 20 |
