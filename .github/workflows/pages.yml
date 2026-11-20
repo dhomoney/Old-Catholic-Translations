@@ -1,14 +1,16 @@
 name: Build and deploy site
 on:
   push:
-    branches: [main, "agent/val-publisher--mwp7hr8c"]
+    branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 jobs:
   build:
@@ -27,6 +29,14 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _build/site
+      # Non-main builds (placeholder content): keep the books for a look.
+      - uses: actions/upload-artifact@v4
+        if: github.ref != 'refs/heads/main'
+        with:
+          name: books-preview
+          path: |
+            _build/site/*.pdf
+            _build/site/*.epub
   deploy:
     if: github.ref == 'refs/heads/main'
     needs: build

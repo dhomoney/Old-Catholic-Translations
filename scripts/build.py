@@ -19,15 +19,38 @@ CREDIT_MD = ("Translation licensed CC BY 4.0. "
 
 
 def parse(path):
-    """Return (title, [paragraph, ...]) from a Markdown file."""
+    """Return (title, blocks). A block is (kind, text); kinds:
+    page (<!-- p. N ... --> marker), heading (## ), margin ([Margin: ...]),
+    verse (starts with **), para. Other <!-- comments --> are dropped."""
     text = path.read_text(encoding="utf-8").strip()
     title = None
     m = re.match(r"#\s+(.+)\n", text + "\n")
     if m:
         title, text = m.group(1).strip(), text[m.end():]
-    paras = [re.sub(r"\s*\n\s*", " ", p).strip()
-             for p in re.split(r"\n\s*\n", text.strip()) if p.strip()]
-    return title, paras
+    blocks = []
+    for raw in re.split(r"\n\s*\n", text):
+        raw = raw.strip()
+        if not raw:
+            continue
+        c = re.fullmatch(r"<!--(.*?)-->", raw, re.S)
+        if c:
+            pm = re.match(r"\s*p\.\s*(\d+)", c.group(1))
+            if pm:
+                blocks.append(("page", "p. " + pm.group(1)))
+            continue
+        raw = re.sub(r"<!--.*?-->", "", raw, flags=re.S).strip()  # inline comments
+        raw = re.sub(r"\s*\n\s*", " ", raw)
+        if not raw:
+            continue
+        if raw.startswith("## "):
+            blocks.append(("heading", raw[3:].strip()))
+        elif raw.startswith("[Margin:"):
+            blocks.append(("margin", re.sub(r"^\[Margin:\s*|\]$", "", raw).strip()))
+        elif raw.startswith("**"):
+            blocks.append(("verse", raw))
+        else:
+            blocks.append(("para", raw))
+    return title, blocks
 
 
 def md_inline(s):
@@ -51,24 +74,37 @@ def collect(src):
         if not ep.exists():
             print(f"skip {lp.name}: no english file", file=sys.stderr)
             continue
-        lt, lparas = parse(lp)
-        et, eparas = parse(ep)
+        lt, lb = parse(lp)
+        et, eb = parse(ep)
         num = int(re.search(r"(\d+)", lp.stem).group(1))
+        paired = [k for k, _ in lb] == [k for k, _ in eb]
+        if not paired:
+            print(f"WARNING {lp.name}: Latin and English blocks do not match "
+                  f"({len(lb)} vs {len(eb)}); showing unpaired", file=sys.stderr)
         out.append(dict(num=num, slug=lp.stem, ltitle=lt or f"Psalmus {num}",
-                        etitle=et or f"Psalm {num}", lat=lparas, eng=eparas))
+                        etitle=et or f"Psalm {num}", lat=lb, eng=eb, paired=paired))
     return out
 
 
+def block_html(kind, text):
+    t = md_inline(text)
+    return {"heading": f"<h2>{t}</h2>", "margin": f'<p class="margin">{t}</p>',
+            "verse": f'<p class="verse">{t}</p>'}.get(kind, f"<p>{t}</p>")
+
+
 def psalm_html(p, prev, nxt):
-    if len(p["lat"]) == len(p["eng"]):
-        rows = "".join(f'<div class="row"><div lang="la">{md_inline(l)}</div>'
-                       f'<div lang="en">{md_inline(e)}</div></div>'
-                       for l, e in zip(p["lat"], p["eng"]))
-    else:  # unpaired: show whole texts in two columns
-        rows = ('<div class="row"><div lang="la">'
-                + "".join(f"<p>{md_inline(l)}</p>" for l in p["lat"])
-                + '</div><div lang="en">'
-                + "".join(f"<p>{md_inline(e)}</p>" for e in p["eng"]) + "</div></div>")
+    if p["paired"]:
+        rows = ""
+        for (k, l), (_, e) in zip(p["lat"], p["eng"]):
+            if k == "page":
+                rows += f'<div class="pg">{html.escape(l)}</div>'
+            else:
+                rows += (f'<div class="row {k}"><div lang="la">{block_html(k, l)}</div>'
+                         f'<div lang="en">{block_html(k, e)}</div></div>')
+    else:  # unpaired fallback: whole texts in two columns
+        col = lambda bl: "".join(block_html(k, t) for k, t in bl if k != "page")
+        rows = (f'<div class="row"><div lang="la">{col(p["lat"])}</div>'
+                f'<div lang="en">{col(p["eng"])}</div></div>')
     nav = ('<nav>' + (f'<a href="{prev["slug"]}.html">&larr; Psalm {prev["num"]}</a>' if prev else "")
            + '<a href="index.html">Index</a>'
            + (f'<a href="{nxt["slug"]}.html">Psalm {nxt["num"]} &rarr;</a>' if nxt else "") + "</nav>")
@@ -80,21 +116,34 @@ def pandoc(*args):
     subprocess.run(["pandoc", *args], check=True)
 
 
-def book_md(psalms, tex):
+def md_block(kind, text, latin):
+    """Stacked-book Markdown for one block; Latin is set as a block quote."""
+    if kind == "page":
+        return f"*\u2014 {text} \u2014*" if latin else ""
+    if kind == "heading":
+        return f"## {text}" if not latin else f"*{text}*"
+    if kind == "margin":
+        return f"*[{text}]*"
+    return ("> " + text) if latin else text
+
+
+def book_md(psalms):
     parts = [f"---\ntitle: {TITLE}\nsubtitle: Latin and English\n"
              f"author: St. Robert Bellarmine\nlang: en\n---\n\n{CREDIT_MD}\n"]
     for p in psalms:
         parts.append(f"\n# {p['etitle']}\n")
-        if len(p["lat"]) == len(p["eng"]) and tex:
-            parts.append("| Latin | English |\n|:-----|:-----|")
-            for l, e in zip(p["lat"], p["eng"]):
-                parts.append("| " + l.replace("|", "\\|") + " | " + e.replace("|", "\\|") + " |")
+        if p["paired"]:  # stacked Latin-then-English; long blocks may break across pages
+            for (k, l), (_, e) in zip(p["lat"], p["eng"]):
+                if k == "page":
+                    parts.append(md_block(k, l, True) + "\n")
+                elif k == "heading":
+                    parts.append(md_block(k, e, False) + "\n\n" + md_block(k, l, True) + "\n")
+                else:
+                    parts.append(md_block(k, l, True) + "\n\n" + md_block(k, e, False) + "\n")
         else:
-            for l, e in zip(p["lat"], p["eng"]):
-                parts.append(f"\n*{l}*\n\n{e}\n")
-            if len(p["lat"]) != len(p["eng"]):
-                parts += [f"\n*{l}*\n" for l in p["lat"]] + [f"\n{e}\n" for e in p["eng"]]
-    return "\n".join(parts) + "\n"
+            for blocks, latin in ((p["lat"], True), (p["eng"], False)):
+                parts += [md_block(k, t, latin) + "\n" for k, t in blocks if k != "page"]
+    return "\n".join(x for x in parts if x) + "\n"
 
 
 def main():
@@ -124,16 +173,15 @@ def main():
         if not shutil.which("pandoc"):
             sys.exit("pandoc not found")
         b = out / "books"; b.mkdir()
-        (b / "book.md").write_text(book_md(psalms, tex=True), encoding="utf-8")
-        (b / "book-epub.md").write_text(book_md(psalms, tex=False), encoding="utf-8")
-        pandoc(str(b / "book-epub.md"), "--toc", "-o", str(out / "site" / "bellarmine-psalms.epub"))
+        (b / "book.md").write_text(book_md(psalms), encoding="utf-8")
+        pandoc(str(b / "book.md"), "--toc", "-o", str(out / "site" / "bellarmine-psalms.epub"))
         pdf = out / "site" / "bellarmine-psalms.pdf"
         try:
             pandoc(str(b / "book.md"), "--pdf-engine=xelatex", "--toc",
                    "-V", "mainfont=DejaVu Serif", "-V", "geometry:margin=2.2cm", "-o", str(pdf))
         except (subprocess.CalledProcessError, FileNotFoundError) as e:
             print(f"xelatex PDF failed ({e}); trying weasyprint", file=sys.stderr)
-            pandoc(str(b / "book-epub.md"), "--toc", "-s", "--pdf-engine=weasyprint",
+            pandoc(str(b / "book.md"), "--toc", "-s", "--pdf-engine=weasyprint",
                    "--css", str(ROOT / "site-assets" / "style.css"), "-o", str(pdf))
     print(f"built {len(psalms)} psalm(s) into {out}")
 
