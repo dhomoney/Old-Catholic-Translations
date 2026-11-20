@@ -2,16 +2,23 @@
 
 English translations of old Catholic texts, made from the original Latin.
 
-## First work: St. Robert Bellarmine, *Explanatio in Psalmos*
+## Works
 
-Source: Bellarmine, *Opera Omnia*, the *Explanatio in Psalmos* volumes (Google Books scans; not stored here).
+Site: <https://dhomoney.github.io/Old-Catholic-Translations/>. Each unit is published with the cleaned Latin text beside the English, and each work has its own PDF and EPUB book.
 
-Each Psalm is published with the cleaned Latin text beside the English.
+| Work | Finished so far | Book |
+|---|---|---|
+| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–10 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
+| St. Robert Bellarmine, *Disputationes de controversiis christianae fidei* | Dedicatory epistle | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.epub) |
+| St. Alphonsus Liguori, *Theologia moralis* | The author's notice to the reader (*Monitum*) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.epub) |
 
 - **Register:** traditional English (thee/thou), in the manner of the Douay-Rheims.
-- **Psalm verses:** quoted in Douay-Rheims wording, since Bellarmine comments on the Latin Vulgate.
-- **Published so far:** Psalms 1–10. Read them at <https://dhomoney.github.io/Old-Catholic-Translations/> (Latin beside English), or download the [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) or [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub).
+- **Scripture:** quoted in Douay-Rheims wording.
+- **Editor's notes:** left out, except those named as needed reading keys; these stay, labelled as the editor's.
 - **Review:** every translation is checked by two independent critics before it is published.
+- **Source scans and raw-text sources** are kept locally and are not in this repository.
+
+Layout: `latin/psalm-NNN.md` for the Psalms; `latin/<work>/<unit>-NNN.md` for other works, with matching files under `english/`.
 
 ## Licence
 

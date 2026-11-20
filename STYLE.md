@@ -4,7 +4,7 @@ Owner: the Translator. Critics check the English against these rules. Fixed word
 
 ## 1. Source
 
-- Translate from the Scribe's cleaned Latin (`latin/psalm-NNN.md`) only.
+- Translate from the Scribe's cleaned Latin (`latin/psalm-NNN.md`; for other works `latin/<work>/<unit>-NNN.md`) only. The English file has the same path under `english/`.
 - The 1866 O'Sullivan translation is not consulted by the Translator.
 - Translate what Bellarmine wrote. Do not correct, shorten, soften or expand him.
 
@@ -28,7 +28,7 @@ Owner: the Translator. Critics check the English against these rules. Fixed word
 - Where he explains a verse by changing one word of it, change only that word in the Douay-Rheims wording.
 - Allusions he does not mark as quotations are worded after the Douay-Rheims but get no quotation marks and no reference.
 - Where his argument turns on a Latin word that the Douay-Rheims renders differently in the text quoted, the quotation keeps the Douay-Rheims wording and the Latin word is given beside it in italics, or in a note.
-- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*, *Acts*, *Heb.*, *Apoc.*, *Mich.*, *Tim.*, *John*, *Luke*, II *Kings* for II *Reg.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
+- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*, *Acts*, *Heb.*, *Apoc.*, *Mich.*, *Tim.*, *John*, *Luke*, *Eccles.*, II *Kings* for II *Reg.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
 
 ## 4. Words discussed as words
 
@@ -60,3 +60,12 @@ Owner: the Translator. Critics check the English against these rules. Fixed word
 - *Septuaginta* is "the Seventy"; *Septuaginta Interpretes* is "the Seventy Interpreters".
 - *Propheta* for the Psalmist and *Apostolus* for St. Paul take a capital: the Prophet, the Apostle.
 - Capitals otherwise follow the Latin file (Saints, Angels, Psalm, Scripture).
+
+## 8. Works other than the Psalms
+
+- The same rules hold for every work. "Bellarmine" in the rules above means the author in hand.
+- Address in the second person singular is "thou", also to the Pope and to the reader (*Sanctitas tua*, thy Holiness; *benevole lector*, kind reader ... thou).
+- Quotations the Latin file gives without quotation marks or italics (the Liguori edition prints them so) take double quotation marks in English.
+- References to authors and law are put into English words with the numbers kept: Part III, quest. 9, art. 4; Book I, no. 55. Titles of works are translated and set in italics; a title better known in Latin (the *Medulla* of Busembaum) is kept.
+- The author's own notes, where the Latin file gives them as a block, are translated in the same place with the same mark: (1). A later editor's note is translated only when god has named it as a needed reading key, and always with the Latin file's label that it is the editor's: `(\*) [Editor's note, Marietti 1879]` in Liguori's *Monitum*. Everything else of an editor stays out.
+- A slip of the Scribe is not noted in the English: it is reported to the Scribe, and the English follows the scan. A misprint of the printed edition is translated by the sense and gets a note.
