@@ -1,0 +1,10 @@
+# Source scans stay local (Google Books terms, size). See README for links.
+source-material/*.pdf
+.DS_Store
+.bashrc
+.gitconfig
+.mcp.json
+.idea/
+.vscode/
+.claude/
+node_modules/
