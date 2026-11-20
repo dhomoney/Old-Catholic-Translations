@@ -35,6 +35,40 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | sæculum (hoc, futurum) | this world, the world to come | | Ps 1 |
 | carnales | carnal men | | Ps 1 |
 | dogmata (Lutheranorum) | tenets | of opinions Bellarmine rejects; "dogma" is kept for Catholic dogma | Ps 1 |
+| Messias | Messias | Douay-Rheims form | Ps 2 |
+| pietas | piety | "godliness" only inside a Douay-Rheims quotation (Isa. xi, 2) | Ps 2 |
+| timor filialis / servilis | filial fear / servile fear | | Ps 2 |
+| ira, furor (of God) | anger, rage | as Ps. ii, 5; "indignation", "wrath" where the Douay-Rheims verse quoted has them (Ps. vi, 2) | Ps 2 |
+| generatio (æterna, creata) | generation (eternal, created) | | Ps 2 |
+| expositio | exposition | exponere is "to expound"; explicare stays "to explain" | Ps 2 |
+| sensus litteralis | literal sense | | Ps 2 |
+| affectus | affection | | Ps 2 |
+| demerita | demerits | | Ps 2 |
+| fiducia | trust | with confidere, "to trust" (Ps. ii, 13) | Ps 2 |
+| lethalis (laqueus) | deadly | "mortal" is kept for sin | Ps 2 |
+| impeccabilis | impeccable | | Ps 4 |
+| præsumptio | presumption | | Ps 4 |
+| lex naturalis | the natural law | | Ps 4 |
+| intelligentia mystica; mystica / litteralis | the mystical understanding; mystical / literal | | Ps 4 |
+| pii | the godly | | Ps 3 |
+| iniquitas, iniqui | iniquity, men of iniquity | | Ps 5 |
+| injusti | the unjust | | Ps 5 |
+| malignus | the wicked | as the Douay-Rheims at Ps. v, 5 | Ps 5 |
+| pœnitentia | penance | | Ps 5 |
+| contemplari, contemplatio | to contemplate, contemplation | | Ps 5 |
+| benevolentia / beneplacitum / bona voluntas | benevolence / good pleasure / good will | | Ps 5 |
+| vocatio, justificatio, glorificatio | vocation, justification, glorification | | Ps 5 |
+| prophetia potius quam imprecatio | a prophecy rather than an imprecation | | Ps 5 |
+| gehenna | hell fire | kept apart from infernus, "hell" | Ps 6 |
+| infernus | hell | | Ps 6 |
+| culpa | fault | | Ps 6 |
+| reatus | guilt | | Ps 6 |
+| pœnitentiales (Psalmi) | the penitential Psalms | | Ps 6 |
+| contritus | contrite | | Ps 6 |
+| actus justificationis | the act of justification | | Ps 6 |
+| merita præcedentia | preceding merits | | Ps 6 |
+| oculus pietatis | the eye of his loving-kindness | pietas of God toward men; otherwise "piety" | Ps 6 |
+| habitus mali | evil habits | | Ps 6 |
 
 ## Terms of exposition
 
@@ -65,6 +99,22 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | Propheta (the Psalmist) | the Prophet | | Ps 1 |
 | Apostolus (St. Paul) | the Apostle | | Ps 1 |
 | poeta profanus | a profane poet | | Ps 1 |
+| sententia (a single saying of Scripture) | sentence | beside "meaning" and "opinion" above | Ps 2 |
+| Chaldæus Paraphrastes | the Chaldee Paraphrast | | Ps 2 |
+| vox, vocabulum (of a word discussed) | word | | Ps 2 |
+| verbum / nomen (parts of speech) | verb / noun | | Ps 2 |
+| reddere, vertere | to render, to translate | | Ps 2 |
+| Rabbini | the Rabbins | | Ps 2 |
+| Septuaginta viri | the Seventy | | Ps 3 |
+| vulgatus Interpres | the Vulgate Interpreter | | Ps 3 |
+| titulus | title | | Ps 3 |
+| figura (Christi) | figure | | Ps 3 |
+| ratione capitis / corporis | by reason of the head / of the body | Christ and the Church | Ps 3 |
+| ad verbum | to the word | | Ps 4 |
+| puncta | the points | the Hebrew vowel points | Ps 4 |
+| librarii | copyists | | Ps 4 |
+| Interpres (noster) | the (our) Interpreter | the Vulgate translator | Ps 4 |
+| exemplar | exemplar | of an image | Ps 4 |
 
 ## Words from the Psalm text (Douay-Rheims)
 
@@ -90,3 +140,88 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | ambulatio | walking | | Ps 1 |
 | humor | moisture | | Ps 1 |
 | virere, viror | to be green, greenness | | Ps 1 |
+| gentes | Gentiles; nations | "Gentiles" where the verse (Ps. ii, 1 and 8) is echoed, "nations" elsewhere | Ps 2 |
+| populi | the people; peoples | "the people" in the verse (Ps. ii, 1), "peoples" in Bellarmine's prose | Ps 2 |
+| fremere, fremitus | to rage, raging | | Ps 2 |
+| meditari (inania) | to devise | Ps. ii, 1 only; otherwise "to meditate" | Ps 2 |
+| astare | to stand up | Ps. ii, 2 | Ps 2 |
+| convenire in unum | to meet together | Ps. ii, 2 | Ps 2 |
+| vincula | bonds | | Ps 2 |
+| funes | ropes | | Ps 2 |
+| funiculus | cord | "lot" only inside the Douay-Rheims quotation of Deut. xxxii, 9 | Ps 2 |
+| laquei | snares | | Ps 2 |
+| irridere, subsannare | to laugh at, to deride | nouns: laughter, derision | Ps 2 |
+| constituere (regem) | to appoint | the verse, Ps. ii, 6 | Ps 2 |
+| ordinare (regem) | to ordain | Bellarmine's word for the Hebrew reading | Ps 2 |
+| præceptum | commandment | Ps. ii, 6; "law" only inside the Douay-Rheims quotation of Ps. civ, 10 | Ps 2 |
+| decretum, statutum | decree, statute | | Ps 2 |
+| hæreditas, pars, sors, possessio | inheritance, portion, lot, possession | | Ps 2 |
+| termini terræ | the utmost parts of the earth | | Ps 2 |
+| confringere | to break in pieces | | Ps 2 |
+| erudiri, eruditio | to receive instruction (to be instructed), instruction | | Ps 2 |
+| exultare, exsultatio | to rejoice, rejoicing | | Ps 2 |
+| apprehendere (disciplinam) | to embrace | Ps. ii, 12 | Ps 2 |
+| complecti | to clasp | kept apart from "embrace" in Ps. ii, 12 | Ps 2 |
+| disciplina | discipline | | Ps 2 |
+| exterminari (de via) | to be driven out | | Ps 2 |
+| tribulare, tribulatio | to afflict, tribulation | verb as Ps. iii, 1 | Ps 3 |
+| susceptor, suscipere | protector, to protect | Ps. iii, 3 and 5 | Ps 3 |
+| sustentare | to uphold | | Ps 3 |
+| clypeus | shield | | Ps 3 |
+| exaudire | to hear | | Ps 3 |
+| mons sanctus | holy hill; holy mountain | as the Douay-Rheims has it in each Psalm (Ps. iii, 4; Ps. ii, 6) | Ps 3 |
+| soporatus sum | I have taken my rest | Ps. iii, 5 | Ps 3 |
+| exsurgere | to rise up; to arise | "I have risen up" (Ps. iii, 5), "arise" (Ps. iii, 6) | Ps 3 |
+| percutere | to strike | | Ps 3 |
+| conterere (dentes) | to break | Ps. iii, 7 | Ps 3 |
+| maxilla | cheek | | Ps 3 |
+| salus | salvation | | Ps 3 |
+| confidere, sperare | to trust, to hope | | Ps 3 |
+| diffidentia | distrust | | Ps 3 |
+| sela | *sela* | kept; explained by Bellarmine as "always" | Ps 3 |
+| in finem | unto the end | titles | Ps 4 |
+| dilatare, dilatatio | to enlarge, enlargement | Ps. iv, 1 | Ps 4 |
+| angustiæ | straitness | | Ps 4 |
+| gravi corde | dull of heart | Ps. iv, 3; "heavy of heart" as the gloss of the Latin | Ps 4 |
+| mirificare | to make wonderful | Ps. iv, 4 | Ps 4 |
+| compungi | to be sorry | Ps. iv, 5 | Ps 4 |
+| cubilia | beds | | Ps 4 |
+| sacrificare sacrificium | to offer up the sacrifice | Ps. iv, 6 | Ps 4 |
+| ostendere (bona) | to shew | Douay-Rheims spelling in and near the verse; "show" elsewhere | Ps 4 |
+| lætitia | gladness | gaudium is "joy" | Ps 4 |
+| in idipsum | in the selfsame | | Ps 4 |
+| singulariter | singularly | | Ps 4 |
+| constituere (in spe) | to settle | Ps. iv, 10 | Ps 4 |
+| hæreditatem consequi | to obtain the inheritance | title of Ps. v | Ps 5 |
+| auribus percipere / intelligere / intendere | to give ear / to understand / to hearken | Ps. v, 1-2; in the prose percipere is "to perceive", attendere "to attend" | Ps 5 |
+| astare (tibi) | to stand before | Ps. v, 4 | Ps 5 |
+| deducere | to conduct | Ps. v, 9 | Ps 5 |
+| dirigere | to direct | | Ps 5 |
+| insidiatores, insidiari | them that lie in wait, to lie in wait | | Ps 5 |
+| vir sanguinum | the bloody man | | Ps 5 |
+| dolosus, dolose agere | deceitful, to deal deceitfully | | Ps 5 |
+| abominari | to abhor | | Ps 5 |
+| adorare (ad templum) | to worship | Ps. v, 8; "to adore" in Ps. ii, 12 | Ps 5 |
+| cogitationes (decidant a) | devices | Ps. v, 12 only; otherwise "thoughts" | Ps 5 |
+| impietates | wickedness | Ps. v, 12 | Ps 5 |
+| expellere | to cast out | | Ps 5 |
+| irritare | to provoke | | Ps 5 |
+| lætari / exultare / gloriari | to be glad / to rejoice / to glory | | Ps 5 |
+| scutum | shield | | Ps 5 |
+| coronare | to crown | | Ps 5 |
+| pro octava | for the octave | title of Ps. vi | Ps 6 |
+| arguere, corripere | to rebuke, to chastise | Ps. vi, 1 | Ps 6 |
+| furor, ira (Ps. vi, 1) | indignation, wrath | the Douay-Rheims wording of this verse, kept in the commentary on it; in Bellarmine's own pair "furor et indignatio" furor is "rage" | Ps 6 |
+| infirmus | weak | | Ps 6 |
+| conturbari, turbari | to be troubled | | Ps 6 |
+| converti | to turn; to be turned back; to be converted | "Turn to me" (Ps. vi, 4), "be turned back" (Ps. vi, 10) | Ps 6 |
+| eripere / eruere | to deliver / to pluck out | | Ps 6 |
+| salvum facere, salvare | to save | | Ps 6 |
+| confiteri (Domino) | to confess to | | Ps 6 |
+| lacus | pit | | Ps 6 |
+| sepulcrum | sepulchre | | Ps 6 |
+| gemitus | groanings | Ps. vi, 6 | Ps 6 |
+| stratum | couch | | Ps 6 |
+| inveterare | to grow old | consenescere is "to wax old" | Ps 6 |
+| erubescere | to be ashamed | | Ps 6 |
+| deprecatio | supplication | | Ps 6 |

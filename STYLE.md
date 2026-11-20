@@ -23,10 +23,12 @@ Owner: the Translator. Critics check the English against these rules. Fixed word
 - Quote Scripture in the Douay-Rheims (Challoner) wording.
 - Psalm numbers and verse numbers follow Bellarmine (Vulgate numbering). Where his verse division differs from the Douay-Rheims, keep his and say so in a note.
 - Where Bellarmine quotes a text in words that differ from the Vulgate, translate his words and give the Vulgate reading in a note.
+- A quotation he shortens, or fits to the grammar of his own sentence, is translated as he gives it, in the Douay-Rheims wording of the words he keeps, and gets no note.
 - A change of word order alone ("founded and rooted" for the Vulgate's "rooted and founded") is translated as he has it and gets no note.
 - Where he explains a verse by changing one word of it, change only that word in the Douay-Rheims wording.
 - Allusions he does not mark as quotations are worded after the Douay-Rheims but get no quotation marks and no reference.
-- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
+- Where his argument turns on a Latin word that the Douay-Rheims renders differently in the text quoted, the quotation keeps the Douay-Rheims wording and the Latin word is given beside it in italics, or in a note.
+- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*, *Acts*, *Heb.*, *Apoc.*, *Mich.*, II *Kings* for II *Reg.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
 
 ## 4. Words discussed as words
 
