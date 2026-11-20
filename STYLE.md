@@ -28,7 +28,7 @@ Owner: the Translator. Critics check the English against these rules. Fixed word
 - Where he explains a verse by changing one word of it, change only that word in the Douay-Rheims wording.
 - Allusions he does not mark as quotations are worded after the Douay-Rheims but get no quotation marks and no reference.
 - Where his argument turns on a Latin word that the Douay-Rheims renders differently in the text quoted, the quotation keeps the Douay-Rheims wording and the Latin word is given beside it in italics, or in a note.
-- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*, *Acts*, *Heb.*, *Apoc.*, *Mich.*, *Tim.*, *John*, *Luke*, *Eccles.*, *Ephes.*, *Pet.*, II *Kings* for II *Reg.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
+- References: book names in the Douay-Rheims forms, abbreviated and in italics (*Exod.*, *Deut.*, *Ps.*, *Matt.*, *Rom.*, *James*, *Wis.*, *Mal.*, *Acts*, *Heb.*, *Apoc.*, *Mich.*, *Isa.*, *Num.*, *Tim.*, *John*, *Luke*, *Eccles.*, *Ephes.*, *Pet.*, II *Kings* for II *Reg.*); chapter in lower-case Roman numerals; verse in Arabic numerals only where Bellarmine gives one. A wrong reference in the source is kept and corrected in a note.
 
 ## 4. Words discussed as words
 

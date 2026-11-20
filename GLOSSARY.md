@@ -392,3 +392,33 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | prævenire (Ps. xvii, 19) | to prevent | Douay-Rheims of the verse, with the Latin beside it and a note | Ps 17 |
 | filii adulterini | bastard children | | Ps 17 |
 | iracundus | wrathful | | Ps 17 |
+| encomium (legis) | praise | | Ps 18 |
+| idiomata | tongues | | Ps 18 |
+| summum cœli (Ps. xviii, 6-7) | the end of heaven | Douay-Rheims; *summum* kept beside it where he explains it as "outermost" | Ps 18 |
+| ab alienis (Ps. xviii, 13) | from those of others | Douay-Rheims in the verse, with a note; "from strangers" in his own explanation | Ps 18 |
+| alienis moribus | of strange manners | | Ps 18 |
+| delictum maximum | the greatest sin | Douay-Rheims | Ps 18 |
+| cupit nimis (Ps. cxi, 1, as Bellarmine quotes it) | desireth exceedingly | the Vulgate has *volet nimis*, Douay-Rheims "shall delight exceedingly": given in a note | Ps 18 |
+| intelligentia (mover of the heavens) | an Intelligence | | Ps 18 |
+| prædicatio (cœlorum) | preaching | | Ps 18 |
+| vitio scriptorum | by the fault of the scribes | | Ps 18 |
+| Gymnasium (nostrum) | (our) School | the Roman College | Controversiae, Ad lectorem |
+| alumni (Collegiorum) | students | | Controversiae, Ad lectorem |
+| typis mandare / ad prælum | to commit to the press, to print / for the press | | Controversiae, Ad lectorem |
+| ars Typographica | the art of Printing | | Controversiae, Ad lectorem |
+| controversiarum capita | heads of the controversies | | Controversiae, Ad lectorem |
+| benignitas (of the Pope's goodness) / benignissime | kindness / most graciously | "indulgence" only of opinions and authors (row above) | Liguori, Dedicatio |
+| nostra sodalitas (Liguori) / sodales mei | our society / my companions | lower case; "congregation" is kept for congregatio | Liguori, Dedicatio |
+| S. T. (Sanctitas Tua) | thy Holiness | written out | Liguori, Dedicatio |
+| praxis | practice | | Liguori, Dedicatio |
+| respublica litteraria | the commonwealth of letters | | Liguori, Dedicatio |
+| auctoritatem accommodare | to grant authority | not "lend" | Liguori, Dedicatio |
+| aereæ potestates | the powers of the air | | Ps 19 |
+| holocaustum (Ps. xix, 3) | whole burnt offering | Douay-Rheims of the verse, kept in the commentary on it | Ps 19 |
+| oratio verbalis / realis | a prayer of words / a prayer of deed | | Ps 19 |
+| prædefinitio / executio | predetermination / execution | | Ps 19 |
+| potentatus (Ps. xix, 7) | powers | Douay-Rheims; "principalities" in his second sense; Latin kept where he discusses the word | Ps 19 |
+| specula (Sion) | watch-tower | | Ps 19 |
+| interpunctio | pointing | of the Hebrew text | Ps 19 |
+| Noster (the Vulgate translator) | our Interpreter | as "noster Interpres" | Ps 19 |
+| fausta precatio | prayer of good omen | | Ps 19 |
