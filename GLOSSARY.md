@@ -59,7 +59,7 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | benevolentia / beneplacitum / bona voluntas | benevolence / good pleasure / good will | | Ps 5 |
 | vocatio, justificatio, glorificatio | vocation, justification, glorification | | Ps 5 |
 | prophetia potius quam imprecatio | a prophecy rather than an imprecation | | Ps 5 |
-| gehenna | hell fire | kept apart from infernus, "hell" | Ps 6 |
+| gehenna | hell fire | kept apart from infernus, "hell"; plain "hell" at Ps. x, 7, where cold winds are placed in it | Ps 6, 10 |
 | infernus | hell | | Ps 6 |
 | culpa | fault | | Ps 6 |
 | reatus | guilt | | Ps 6 |
@@ -318,3 +318,11 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | pupillus, orphanus | the fatherless, the orphan | | Ps 9 |
 | malignus (Ps. ix, 39) | the malignant | as the Douay-Rheims there; "the wicked" at Ps. v, 5 | Ps 9 |
 | figmentum / factor | the thing formed / he that formed it | after Rom. ix, 20 | Ps 9 |
+| vocatio (Ps. x, 1-2) | calling | a man's state of life; "vocation" where it is God's call to grace (Ps 5) | Ps 10 |
+| aucupes | fowlers | | Ps 10 |
+| nervus / chorda | string / cord | of the bow | Ps 10 |
+| interrogare (Ps. x, 5-6) | to question | lemmas keep the Douay-Rheims "examine", "trieth"; note in the text | Ps 10 |
+| perficere (Ps. x, 3) | to perfect | lemma keeps the Douay-Rheims "hast made"; Latin given beside it | Ps 10 |
+| pars / portio | part / portion | "portion" for pars where the Douay-Rheims has it (pars calicis, pars hæreditatis) | Ps 10 |
+| spiritus procellarum | storms of winds | as the Douay-Rheims | Ps 10 |
+| puncta | points | the Hebrew vowel points | Ps 10 |
