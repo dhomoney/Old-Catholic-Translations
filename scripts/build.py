@@ -178,7 +178,7 @@ def main():
         pdf = out / "site" / "bellarmine-psalms.pdf"
         try:
             pandoc(str(b / "book.md"), "--pdf-engine=xelatex", "--toc",
-                   "-V", "mainfont=DejaVu Serif", "-V", "geometry:margin=2.2cm", "-o", str(pdf))
+                   "-V", "mainfont=FreeSerif", "-V", "geometry:margin=2.2cm", "-o", str(pdf))
         except (subprocess.CalledProcessError, FileNotFoundError) as e:
             print(f"xelatex PDF failed ({e}); trying weasyprint", file=sys.stderr)
             pandoc(str(b / "book.md"), "--toc", "-s", "--pdf-engine=weasyprint",
