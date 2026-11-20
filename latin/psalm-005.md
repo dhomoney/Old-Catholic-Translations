@@ -20,6 +20,8 @@ Hic titulus varie exponitur, propterea quod in Hebræo quædam vox est, נחלו
 
 <!-- p. 29 (PDF 40) -->
 
+[Margin: est columbæ. (continues the gloss begun on p. 28)]
+
 consequetur. Quia vero Ecclesia pro meliore sua parte, similis est columbæ, quæ perpetuo gemit, et innocentiam custodit, ideo in hoc Psalmo columbæ officium exercens, partim orat, partim peccatum detestatur. Quod ipsum facere debent omnes, qui pertinent ad columbam; sic enim unimur Deo, in quo consistit hæreditas, si oratione trahimus Deum ad nos, et puritate vitæ propinquamus ad Deum.
 
 ## EXPLICATIO PSALMI.

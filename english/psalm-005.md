@@ -1,6 +1,6 @@
 # PSALM V.
 
-<!-- Translated from latin/psalm-005.md (Scribe commit 21245b6). Source: bellermine-on-psalms-1.pdf, PDF pp. 39-42 (printed pp. 28-31). Paragraphs, page markers and marginal glosses follow the Latin file one for one. Bellarmine's verse headings run 1-15 and are kept as printed. Translator's notes are footnotes; they are not Bellarmine's. -->
+<!-- Translated from latin/psalm-005.md (Scribe commit b2c8282). Source: bellermine-on-psalms-1.pdf, PDF pp. 39-42 (printed pp. 28-31). Paragraphs, page markers and marginal glosses follow the Latin file one for one. Bellarmine's verse headings run 1-15 and are kept as printed. Translator's notes are footnotes; they are not Bellarmine's. -->
 
 <!-- p. 28 (PDF 39) -->
 
@@ -17,6 +17,8 @@ PSALM V.
 This title is variously expounded, because in the Hebrew there is a certain word, נחלות *nechilot*, which the Rabbins, and they who follow the Rabbins, will have to signify a musical instrument. But they are altogether to be rejected by Catholics, since St. Jerome, most skilled in the Hebrew tongue, translated *pro ea quæ hæreditatem consequitur* (for her that obtaineth the inheritance). And the Hebrew words themselves altogether admit these interpretations, since נחל *nachal* signifieth *to inherit*; נחלות *nachalot*, *inheritances*; נחלת *nochelet*, *her that inheriteth*. It is credible therefore that the Hebrew text, changed by length of time in one letter or another, hath brought forth these varieties: but in a doubtful matter more credit is to be given to the Seventy Interpreters than to the recent Rabbins, especially since the version of St. Jerome favoureth the Seventy more than the Rabbins. This Psalm therefore is composed in the person of the Church, which daily obtaineth the inheritance of eternal salvation in her members, and at the end of the world the whole Church
 
 <!-- p. 29 (PDF 40) -->
+
+[Margin: is like a dove. (continues the gloss begun on p. 28)]
 
 shall obtain it. But because the Church, in her better part, is like a dove, which perpetually mourneth, and keepeth innocence, therefore in this Psalm, exercising the office of a dove, she partly prayeth, partly detesteth sin. Which same thing all ought to do who pertain to the dove; for so are we united to God, in whom the inheritance consisteth, if by prayer we draw God to us, and by purity of life draw near to God.
 
