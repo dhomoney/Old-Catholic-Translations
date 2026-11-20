@@ -69,6 +69,17 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | merita præcedentia | preceding merits | | Ps 6 |
 | oculus pietatis | the eye of his loving-kindness | pietas of God toward men; otherwise "piety" | Ps 6 |
 | habitus mali | evil habits | | Ps 6 |
+| calumnia | calumny | | Ps 7 |
+| providentia | providence | | Ps 7 |
+| invidia, odium | envy, hatred | | Ps 7 |
+| animadversio (Dei) | punishment | | Ps 7 |
+| sensus allegoricus | the allegorical sense | | Ps 8 |
+| visitatio | visitation | | Ps 8 |
+| incarnatio Verbi | the incarnation of the Word | | Ps 8 |
+| impassibilis | impassible | | Ps 8 |
+| Angeli reprobi | reprobate Angels | | Ps 8 |
+| magnificentia | magnificence | | Ps 8 |
+| admiratio | wonder | admirabilis is "admirable", as Ps. viii, 1 | Ps 8 |
 
 ## Terms of exposition
 
@@ -225,3 +236,39 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | inveterare | to grow old | consenescere is "to wax old" | Ps 6 |
 | erubescere | to be ashamed | | Ps 6 |
 | deprecatio | supplication | | Ps 6 |
+| sperare in (Ps. vii, 1) | to put one's trust in | as the Douay-Rheims there; otherwise "to hope" | Ps 7 |
+| rapere (animam) | to seize upon | Ps. vii, 2 | Ps 7 |
+| redimere, redemptio | to redeem, redemption | | Ps 7 |
+| retribuere | to repay | | Ps 7 |
+| inanis | empty | | Ps 7 |
+| insidiari (regi), insidiæ | to plot against, plotting | as I Kings xxii, 8; "to lie in wait" in Ps. v | Ps 7 |
+| invadere regnum | to usurp the kingdom | as II Kings xvi, 8 | Ps 7 |
+| conculcare | to tread down | | Ps 7 |
+| fines (inimicorum) | borders | | Ps 7 |
+| præceptum (Ps. vii, 7) | precept | as the Douay-Rheims there; "commandment" in Ps. ii, 6 | Ps 7 |
+| synagoga populorum | a congregation of people | | Ps 7 |
+| nequitia | wickedness | Ps. vii, 10 | Ps 7 |
+| consumi | to be brought to nought; to be consumed | the first in the Douay-Rheims verse, the second in Bellarmine's explanation | Ps 7 |
+| scrutans corda et renes | the searcher of hearts and reins | | Ps 7 |
+| adjutorium | help | | Ps 7 |
+| recti corde | the upright of heart | | Ps 7 |
+| comminari | to threaten | | Ps 7 |
+| vibrare (gladium) | to brandish | | Ps 7 |
+| vasa (mortis) | instruments | "vessel" as the gloss of vas | Ps 7 |
+| parturire / concipere / parere | to be in labour / to conceive / to bring forth | | Ps 7 |
+| dolor (Ps. vii, 15) | sorrow | | Ps 7 |
+| lacus / fovea | pit / hole | | Ps 7 |
+| vertex | crown | of the head | Ps 7 |
+| confiteri Domino (Ps. vii, 18) | to give glory to the Lord | as the Douay-Rheims there; "to confess to" elsewhere | Ps 7 |
+| psallere | to sing | | Ps 7 |
+| pro torcularibus | for the presses | title of Ps. viii | Ps 8 |
+| infantes et lactentes | infants and sucklings | | Ps 8 |
+| perficere laudem | to perfect praise | | Ps 8 |
+| ultor | avenger | | Ps 8 |
+| parvuli | little ones | | Ps 8 |
+| minuere paulo minus ab | to make a little less than | Ps. viii, 6 | Ps 8 |
+| pecora campi | the beasts of the fields | | Ps 8 |
+| animantia (domestica, sylvestria) | living creatures (tame, wild) | | Ps 8 |
+| volucres cœli | the birds of the air | | Ps 8 |
+| perambulare semitas | to pass through the paths | | Ps 8 |
+| orbis terræ | the round of the earth | | Ps 8 |
