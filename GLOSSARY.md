@@ -429,3 +429,17 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | reliquiæ | remnants; a remnant (Rom. ix, 27) | | Ps 20 |
 | hyperbaton | hyperbaton | kept | Ps 20 |
 | virtus (Ps. xx, 1 and 13) | strength; power (virtutes tuas) | Douay-Rheims | Ps 20 |
+| susceptio matutina (Ps. xxi, title) | the morning protection | Douay-Rheims; "taking up" beside it where he explains suscipere | Ps 21 |
+| unio hypostatica | the hypostatic union | | Ps 21 |
+| protestatio | protestation | | Ps 21 |
+| impassibilis / passibilis | impassible / passible | | Ps 21 |
+| hostia pro peccato | a victim for sin | | Ps 21 |
+| pontifices et pharisæi | the chief priests and Pharisees | | Ps 21 |
+| venter (Ps. xxi, 15) | bowels | Douay-Rheims; "belly" with the Latin where he explains the word | Ps 21 |
+| quoniam vult eum (Ps. xxi, 8) | seeing he delighteth in him | Douay-Rheims, Latin beside it where he compares Matt. xxvii, 43 | Ps 21 |
+| framea | sword | as gladius | Ps 21 |
+| humilitas mea (Ps. xxi, 22) | my lowness | Douay-Rheims | Ps 21 |
+| timere Deum = colere | to fear God = to worship | | Ps 21 |
+| librarii | copyists | scriptores "scribes" (Ps 18) | Ps 21 |
+| figura collectionis | the figure of collection | | Ps 21 |
+| paragogica (littera) | paragogic | | Ps 21 |
