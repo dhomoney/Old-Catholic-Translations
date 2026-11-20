@@ -11,3 +11,4 @@ node_modules/
 
 # Build output (generated in CI)
 _build/
+__pycache__/

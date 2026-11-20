@@ -20,7 +20,7 @@ jobs:
       - name: Install pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended fonts-dejavu
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended fonts-freefont-ttf
       # On main: real content. On other branches: placeholder fixtures (build test only).
       - name: Build
         run: |
