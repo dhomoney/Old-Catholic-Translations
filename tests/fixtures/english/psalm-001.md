@@ -4,7 +4,7 @@
 
 <!-- p. 9 (PDF 20) -->
 
-Placeholder English for the build test only, standing in a block of the same kind as the Latin beside it, with *emphasis* kept.
+Placeholder English[^1] for the build test only, standing in a block of the same kind as the Latin beside it, with *emphasis* kept.
 
 Placeholder English for the build test only, standing in a block of the same kind as the Latin beside it, with *emphasis* kept.
 
@@ -25,3 +25,5 @@ Placeholder English for the build test only, standing in a block of the same kin
 Placeholder English for the build test only, standing in a block of the same kind as the Latin beside it, with *emphasis* kept.
 
 [Margin: placeholder side note]
+
+[^1]: Translator's note: test footnote.
