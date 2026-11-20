@@ -80,6 +80,16 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | Angeli reprobi | reprobate Angels | | Ps 8 |
 | magnificentia | magnificence | | Ps 8 |
 | admiratio | wonder | admirabilis is "admirable", as Ps. viii, 1 | Ps 8 |
+| redemptio generis humani | the redemption of mankind | | Ps 9 |
+| recapitulare | to recapitulate | Ephes. i, 10 | Ps 9 |
+| satisfacere (pro homine) | to make satisfaction | | Ps 9 |
+| idololatria, gentilitas | idolatry, heathenism | | Ps 9 |
+| ethnici | heathens | | Ps 9 |
+| infideles, infidelitas | unbelievers (the unbelieving), unbelief | | Ps 9 |
+| tentationes | temptations | | Ps 9 |
+| scandalizari | to be scandalized | | Ps 9 |
+| concupiscentia | concupiscence | | Ps 9 |
+| Antichristus | Antichrist | | Ps 9 |
 
 ## Terms of exposition
 
@@ -126,6 +136,10 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | librarii | copyists | | Ps 4 |
 | Interpres (noster) | the (our) Interpreter | the Vulgate translator | Ps 4 |
 | exemplar | exemplar | of an image | Ps 4 |
+| distinctio | division; stop | "division" of a Psalm or verse, "stop" for a mark of punctuation | Ps 9 |
+| græcismus | Grecism | | Ps 9 |
+| membrum (versus) | member | | Ps 9 |
+| apostrophe, periphrasis | apostrophe, periphrasis | | Ps 9 |
 
 ## Words from the Psalm text (Douay-Rheims)
 
@@ -272,3 +286,35 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | volucres cœli | the birds of the air | | Ps 8 |
 | perambulare semitas | to pass through the paths | | Ps 8 |
 | orbis terræ | the round of the earth | | Ps 8 |
+| pro occultis filii | for the hidden things of the Son | title of Ps. ix | Ps 9 |
+| confiteri (Ps. ix, 1) | to give praise | as the Douay-Rheims there | Ps 9 |
+| mirabilia | wonders | | Ps 9 |
+| facere judicium et causam | to maintain judgment and cause | Ps. ix, 4; Bellarmine's "absolvere litem" is "to end the suit" | Ps 9 |
+| increpare | to rebuke | Ps. ix, 5 | Ps 9 |
+| delere | to blot out | | Ps 9 |
+| frameæ, gladii | swords | | Ps 9 |
+| solitudines | desolations | | Ps 9 |
+| sonitus | noise | strepitus is "din" | Ps 9 |
+| orbis terræ (Ps. ix, 8) | the world | as the Douay-Rheims there; "the round of the earth" elsewhere | Ps 9 |
+| æquitas / rectitudo | equity / uprightness | | Ps 9 |
+| in opportunitatibus | in due time (Ps. ix, 9); in our wants (Ps. ix, 22) | as the Douay-Rheims; the Latin is given beside both | Ps 9 |
+| studia (ejus) | ways | Ps. ix, 11 | Ps 9 |
+| adinventiones | devices | | Ps 9 |
+| requirere | to require | | Ps 9 |
+| humilitas (Ps. ix, 13) | humiliation | abjectio is "abasement" | Ps 9 |
+| portæ mortis, inferi | the gates of death, of hell | | Ps 9 |
+| salutare | salvation | | Ps 9 |
+| interitus | destruction | | Ps 9 |
+| comprehendi | to be taken; to be caught | as the Douay-Rheims at Ps. ix, 16, 17 and 23 | Ps 9 |
+| pauper | the poor, the poor man | | Ps 9 |
+| confortari | to be strengthened | | Ps 9 |
+| legislator | lawgiver | | Ps 9 |
+| despicere | to slight | Ps. ix, 22 | Ps 9 |
+| exacerbare, irritare | to provoke | | Ps 9 |
+| inquinatæ | filthy | | Ps 9 |
+| labor et dolor | labour and sorrow | | Ps 9 |
+| insidiæ, insidiari (Ps. ix, 30-32) | ambush; to lie in wait, to lie in ambush | as the Douay-Rheims in each verse | Ps 9 |
+| atria, vestibula | courts, porches | | Ps 9 |
+| pupillus, orphanus | the fatherless, the orphan | | Ps 9 |
+| malignus (Ps. ix, 39) | the malignant | as the Douay-Rheims there; "the wicked" at Ps. v, 5 | Ps 9 |
+| figmentum / factor | the thing formed / he that formed it | after Rom. ix, 20 | Ps 9 |
