@@ -1,0 +1,39 @@
+name: Build and deploy site
+on:
+  push:
+    branches: [main, "agent/val-publisher--mwp7hr8c"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended fonts-dejavu
+      # On main: real content. On other branches: placeholder fixtures (build test only).
+      - name: Build
+        run: |
+          if [ "$GITHUB_REF" = "refs/heads/main" ]; then python3 scripts/build.py
+          else python3 scripts/build.py --src tests/fixtures; fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _build/site
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

@@ -8,3 +8,6 @@ source-material/*.pdf
 .vscode/
 .claude/
 node_modules/
+
+# Build output (generated in CI)
+_build/
