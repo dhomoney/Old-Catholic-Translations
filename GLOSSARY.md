@@ -326,3 +326,61 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | pars / portio | part / portion | "portion" for pars where the Douay-Rheims has it (pars calicis, pars hæreditatis) | Ps 10 |
 | spiritus procellarum | storms of winds | as the Douay-Rheims | Ps 10 |
 | puncta | points | the Hebrew vowel points | Ps 10 |
+| benignus / rigidus (of opinions, authors) | indulgent / rigid | Liguori | Liguori, Monitum |
+| sententia / opinio (moral theology) | opinion / opinion | "sentence" is not used | Liguori, Monitum |
+| probabilis, probabilior, verior | probable, more probable, truer | technical terms; never paraphrased | Liguori, Monitum |
+| lethale peccatum / mortalia | deadly sin / mortal sins | only in the Monitum, where he varies the word within one sentence; elsewhere lethalis of sin is "mortal" | Liguori, Monitum |
+| tirones | beginners | | Liguori, Monitum |
+| Quæsitor | Inquisitor | | Controversiae, Ep. ded. |
+| Respublica (Christiana) | Commonwealth | | Controversiae, Ep. ded. |
+| Sodalitas nostra / Societas Jesu | our Society / the Society of Jesus | | Controversiae, Ep. ded. |
+| Sanctitas tua / Beatitudo tua | thy Holiness / thy Beatitude | | Controversiae, Ep. ded. |
+| portæ inferorum | the gates of hell | Matt. xvi, 18 | Controversiae, Ep. ded. |
+| colluvies hæresum | the sink of heresies | | Controversiae, Ep. ded. |
+| sanctus (Ps. xi, 1; Heb. chasid) | saint; "merciful" where he gives the Hebrew sense | | Ps 11 |
+| dolosus | deceitful | as the Douay-Rheims | Ps 11 |
+| magniloquus | that speaketh proud things | as the Douay-Rheims | Ps 11 |
+| eloquia (Domini) | words | as the Douay-Rheims at Ps. xi, 7 | Ps 11 |
+| altitudo (Dei) | highness | as the Douay-Rheims at Ps. xi, 9 | Ps 11 |
+| ambire | to go about after | plays on "in circuitu ambulant" | Ps 11 |
+| prava desideria | depraved desires | | Ps 12 |
+| psallere | to play; "sing", "sing praises" in Douay-Rheims quotations | note at Ps. xii, 6 | Ps 12 |
+| retribuere | to render | | Ps 12 |
+| salutare (tuum) | salvation; "safety" at Ps. xi, 6 | as the Douay-Rheims in each place | Ps 11, 12 |
+| insipiens | fool | as the Douay-Rheims at Ps. xiii, 1 | Ps 13 |
+| studia (Ps. xiii) | pursuits | lemma keeps the Douay-Rheims "ways"; cf. Ps 9 | Ps 13 |
+| infidelis | unbeliever | | Ps 13 |
+| non renatus | not born again | | Ps 13 |
+| contritio (Ps. xiii, 7) | destruction | as the Douay-Rheims; conterere "to crush" | Ps 13 |
+| inops | the poor man | as the Douay-Rheims at Ps. xiii, 10 | Ps 13 |
+| confundere (consilium) | to confound | he explains it as "to mock" | Ps 13 |
+| macula | blemish | as the Douay-Rheims at Ps. xiv, 2; also of sin | Ps 14 |
+| culpa lethalis | mortal fault | lethalis of sin or fault is "mortal" (Ps 1 row) | Ps 14 |
+| munera (Ps. xiv, 6) | bribes | as the Douay-Rheims | Ps 14 |
+| cupiditas (I Tim. vi, 10) | the desire of money | as the Douay-Rheims; Latin beside it | Ps 14 |
+| mansio | abode | | Ps 14 |
+| voluntates (Ps. xv, 2) | desires | as the Douay-Rheims; benevolentia "good will", studia "zeal" | Ps 15 |
+| mirificare | to make wonderful | mirabilem reddere "to render marvellous" | Ps 15 |
+| in regimine (Hebrew grammar) | in the construct state | | Ps 15 |
+| infirmitates / infirmi | infirmities / weak | "weak" as the Douay-Rheims at Rom. v, 6 | Ps 15 |
+| conventicula / cœtus | meetings / assemblies | | Ps 15 |
+| funes, funiculi (Ps. xv, 6) | lines | as the Douay-Rheims; "cord" elsewhere | Ps 15 |
+| sors | lot | | Ps 15 |
+| præclarus (Ps. xv, 6) | goodly | as the Douay-Rheims | Ps 15 |
+| increpare / eruditio / reprehensio | to rebuke (lemma: correct) / instruction / reproof | | Ps 15 |
+| renes | reins | | Ps 15 |
+| apud inferos / limbus Patrum | in hell / the limbo of the Fathers | | Ps 15 |
+| cadaver / sepulcrum (Beza) | carcass / grave | | Ps 15 |
+| fiducia / spes | confidence / hope | | Ps 15 |
+| æquitates (Ps. xvi, 3) | the things that are equitable | as the Douay-Rheims; æquitas "equity"; epicheia kept | Ps 16 |
+| probare / examinare (Ps. xvi, 4) | to prove / to try | as the Douay-Rheims | Ps 16 |
+| voluntas beneplaciti / voluntas signi | the will of good pleasure / the will of sign | | Ps 16 |
+| pupilla oculi | the apple of the eye | as the Douay-Rheims | Ps 16 |
+| viscera | bowels | as the Douay-Rheims at I John iii, 17 | Ps 16 |
+| adeps | fat | | Ps 16 |
+| prævenire (Ps. xvi, 14) | to come before | lemma keeps the Douay-Rheims "disappoint"; note | Ps 16 |
+| supplantare | to supplant | | Ps 16 |
+| framea | sword | as the Douay-Rheims | Ps 16 |
+| succidere | to cut down | | Ps 16 |
+| abscondita (tua) | hidden stores | as the Douay-Rheims | Ps 16 |
+| sæculum (mortui sæculo) | the world; "the age" where he lists senses | | Ps 16 |

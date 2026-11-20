@@ -8,7 +8,7 @@ Site: <https://dhomoney.github.io/Old-Catholic-Translations/>. Each unit is publ
 
 | Work | Finished so far | Book |
 |---|---|---|
-| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–10 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
+| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–12 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
 | St. Robert Bellarmine, *Disputationes de controversiis christianae fidei* | Dedicatory epistle | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.epub) |
 | St. Alphonsus Liguori, *Theologia moralis* | The author's notice to the reader (*Monitum*) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.epub) |
 
