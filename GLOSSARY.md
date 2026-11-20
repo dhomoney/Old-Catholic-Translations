@@ -384,3 +384,11 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | succidere | to cut down | | Ps 16 |
 | abscondita (tua) | hidden stores | as the Douay-Rheims | Ps 16 |
 | sæculum (mortui sæculo) | the world; "the age" where he lists senses | | Ps 16 |
+| robur | might | kept apart from fortitudo, virtus (Ps. xvii, 1 and 35), "strength" | Ps 17 |
+| susceptor (Ps. xvii, 3) | support | Douay-Rheims of the verse; suscipere there "to take up"; elsewhere as Ps 3 | Ps 17 |
+| arx | stronghold | | Ps 17 |
+| fulgur / fulmen | lightning / thunderbolt | | Ps 17 |
+| nebula, nubes | cloud | caligo "darkness" as Ps. xvii, 10 | Ps 17 |
+| prævenire (Ps. xvii, 19) | to prevent | Douay-Rheims of the verse, with the Latin beside it and a note | Ps 17 |
+| filii adulterini | bastard children | | Ps 17 |
+| iracundus | wrathful | | Ps 17 |
