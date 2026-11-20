@@ -42,7 +42,10 @@ def parse(path):
         raw = re.sub(r"\s*\n\s*", " ", raw)
         if not raw:
             continue
-        if raw.startswith("## "):
+        fn = re.match(r"\[\^([^\]]+)\]:\s*(.*)", raw, re.S)
+        if fn:
+            blocks.append(("note", (fn.group(1), fn.group(2).strip())))
+        elif raw.startswith("## "):
             blocks.append(("heading", raw[3:].strip()))
         elif raw.startswith("[Margin:"):
             blocks.append(("margin", re.sub(r"^\[Margin:\s*|\]$", "", raw).strip()))
@@ -56,6 +59,7 @@ def parse(path):
 def md_inline(s):
     """Minimal inline Markdown (*em*, **strong**) to HTML."""
     s = html.escape(s, quote=False)
+    s = re.sub(r"\[\^([^\]]+)\]", r'<sup><a id="r-\1" href="#fn-\1">[\1]</a></sup>', s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     return re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
 
@@ -77,12 +81,15 @@ def collect(src):
         lt, lb = parse(lp)
         et, eb = parse(ep)
         num = int(re.search(r"(\d+)", lp.stem).group(1))
+        notes = [t for k, t in eb if k == "note"]  # translator's footnotes (English only)
+        lb = [b for b in lb if b[0] != "note"]
+        eb = [b for b in eb if b[0] != "note"]
         paired = [k for k, _ in lb] == [k for k, _ in eb]
         if not paired:
             print(f"WARNING {lp.name}: Latin and English blocks do not match "
                   f"({len(lb)} vs {len(eb)}); showing unpaired", file=sys.stderr)
         out.append(dict(num=num, slug=lp.stem, ltitle=lt or f"Psalmus {num}",
-                        etitle=et or f"Psalm {num}", lat=lb, eng=eb, paired=paired))
+                        etitle=et or f"Psalm {num}", lat=lb, eng=eb, paired=paired, notes=notes))
     return out
 
 
@@ -109,11 +116,25 @@ def psalm_html(p, prev, nxt):
            + '<a href="index.html">Index</a>'
            + (f'<a href="{nxt["slug"]}.html">Psalm {nxt["num"]} &rarr;</a>' if nxt else "") + "</nav>")
     head = f'<h1>{html.escape(p["etitle"])}</h1><p class="sub">{html.escape(p["ltitle"])}</p>'
-    return page(p["etitle"], nav + head + f'<section class="pair">{rows}</section>' + nav)
+    notes = ""
+    if p["notes"]:
+        notes = ('<section class="notes"><h2>Translator\'s notes</h2><ol>' + "".join(
+            f'<li id="fn-{html.escape(i)}">[{html.escape(i)}] {md_inline(t)} '
+            f'<a href="#r-{html.escape(i)}">&uarr;</a></li>' for i, t in p["notes"]) + "</ol></section>")
+    return page(p["etitle"], nav + head + f'<section class="pair">{rows}</section>' + notes + nav)
 
 
 def pandoc(*args):
     subprocess.run(["pandoc", *args], check=True)
+
+
+def _unique_notes(p):
+    """Prefix footnote labels with the Psalm number so labels stay unique in a book."""
+    ren = lambda t: re.sub(r"\[\^([^\]]+)\]", rf"[^p{p['num']}-\1]", t)
+    q = dict(p)
+    q["eng"] = [(k, ren(t)) for k, t in p["eng"]]
+    q["notes"] = [(f"p{p['num']}-{i}", ren(t)) for i, t in p["notes"]]
+    return q
 
 
 def md_block(kind, text, latin):
@@ -128,6 +149,7 @@ def md_block(kind, text, latin):
 
 
 def book_md(psalms):
+    psalms = [_unique_notes(p) for p in psalms]
     parts = [f"---\ntitle: {TITLE}\nsubtitle: Latin and English\n"
              f"author: St. Robert Bellarmine\nlang: en\n---\n\n{CREDIT_MD}\n"]
     for p in psalms:
@@ -143,6 +165,8 @@ def book_md(psalms):
         else:
             for blocks, latin in ((p["lat"], True), (p["eng"], False)):
                 parts += [md_block(k, t, latin) + "\n" for k, t in blocks if k != "page"]
+        for i, t in p["notes"]:
+            parts.append(f"[^{i}]: {t}\n")
     return "\n".join(x for x in parts if x) + "\n"
 
 
