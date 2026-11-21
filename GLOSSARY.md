@@ -585,3 +585,19 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | Ordinandi | those to be ordained | | Homo apostolicus, Introductio |
 | advertentiæ / monita | advertisements / admonitions | | Homo apostolicus, Introductio |
 | oratio supernaturalis / mentalis | supernatural / mental prayer | | Homo apostolicus, Introductio |
+| indulgentia (of sin) | pardon | remissio is "remission"; remittere "to forgive" (verse), "to remit" beside condonare "to forgive" | Ps 31 |
+| imputare / reputare | to impute / to repute | non-imputatio "non-imputation"; imputativa "imputative" | Ps 31 |
+| accepto ferre (Rom. iv, 6) | to repute | Douay-Rheims | Ps 31 |
+| infusio justitiæ / infundere | infusion of justice / to pour in; "infused" for *infusam* | | Ps 31 |
+| peccatum mortiferum | deadly sin | lethalis and mortalis stay "mortal" | Ps 31 |
+| rationem exigere / reddere; referre in rationes | to exact / render an account; to enter in the accounts | | Ps 31 |
+| quoad culpam / quoad pœnam (æternam, temporalem) | as to the fault / as to the (eternal, temporal) punishment | | Ps 31 |
+| ærumna | anguish | Ps. xxxi, 4, Douay-Rheims; calamitates et ærumnæ "calamities and miseries" | Ps 31 |
+| rugitus / rugire | roaring / to roar | | Ps 31 |
+| stimulus conscientiæ / remorsus conscientiæ | sting of conscience / remorse of conscience | | Ps 31 |
+| quæstio (a judge's) | the question | torture to draw a confession; juridice "judicially" | Ps 31 |
+| impietas (Ps. xxxi, 6) | wickedness | Douay-Rheims; pius / pietas there "godly" / "godliness", Latin given beside | Ps 31 |
+| tempus opportunum | a seasonable time | Ps. xxxi, 7, Douay-Rheims | Ps 31 |
+| camus / frenum / lupatum / capistrum | bit / bridle / curb / halter | Ps. xxxi, 12 | Ps 31 |
+| gloriari / jubilare | to glory / to shout for joy | Ps. xxxi, 14 | Ps 31 |
+| via morum | the way of conduct | | Ps 31 |
