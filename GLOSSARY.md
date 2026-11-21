@@ -551,3 +551,16 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | Ordo (sacramentum) | Order | | Ps 28 |
 | arbitrii libertas (as a topic) | free will | the name of the controversy; as liberum arbitrium | Controversiae 004 |
 | deliciæ et voluptates | pleasures and delights | voluptas keeps "delight" | Ps 28 |
+| Psalmus Cantici | a psalm of a canticle | Ps. xxix title (Douay-Rheims) | Ps 29 |
+| sensus historicus / propheticus | the historical / prophetical sense | both literal | Ps 29 |
+| suscipere | to uphold (verse); to take up (commentary) | Ps. xxix, 2 (Douay-Rheims) | Ps 29 |
+| vivificare | to quicken | | Ps 29 |
+| Limbus | Limbo | | Ps 29 |
+| nomen substantivum in secundo casu | a noun substantive in the second case | Hebrew genitive for adjective | Ps 29 |
+| momentum | a moment | | Ps 29 |
+| scissio | a cutting | | Ps 29 |
+| vicissitudo | change | of wrath and life, of things | Ps 29 |
+| tribunus | tribune | I Kings xviii, 13 | Ps 29 |
+| decor (Ps. xxix, 8) | beauty | Douay-Rheims; elsewhere "comeliness" | Ps 29 |
+| compungi | to be pricked | verse keeps the Douay-Rheims "regret" | Ps 29 |
+| passibilitas | passibility | | Ps 29 |
