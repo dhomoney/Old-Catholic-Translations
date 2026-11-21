@@ -8,8 +8,8 @@ Site: <https://dhomoney.github.io/Old-Catholic-Translations/>. Each unit is publ
 
 | Work | Finished so far | Book |
 |---|---|---|
-| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–14, 18–21 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
-| St. Robert Bellarmine, *Disputationes de controversiis christianae fidei* | Dedicatory epistle; Ad lectorem (second notice) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.epub) |
+| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–15, 17–21, 23–25, 27 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
+| St. Robert Bellarmine, *Disputationes de controversiis christianae fidei* | Dedicatory epistle; Ad lectorem (second notice); Admonition on revision; Preface | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.epub) |
 | St. Alphonsus Liguori, *Theologia moralis* | The author's notice to the reader (*Monitum*); dedication (second part) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.epub) |
 
 - **Register:** traditional English (thee/thou), in the manner of the Douay-Rheims.

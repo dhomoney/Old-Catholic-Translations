@@ -1,0 +1,7 @@
+# AD EUMDEM, ET TYPOGRAPHOS, DE RECOGNITIONE HUJUS OPERIS, AUCTORIS ADMONITIO
+
+<!-- Source: bellermine-de-controversiis-fidei-1.pdf (Bellarmini Opera omnia, ed. Justinus Fèvre, tomus I, Paris, Vivès), PDF p. 75 (no printed folio; follows printed p. 51). Bellarmine's own text only. Third unit of the Disputationes de controversiis christianae fidei; follows ad-lectorem-002. The heading is printed in three lines: 'AD EUMDEM, ET TYPOGRAPHOS,' / 'DE RECOGNITIONE HUJUS OPERIS,' / 'AUCTORIS ADMONITIO'. The two footnotes at the foot of the page are the Fèvre edition's own notes (not Bellarmine's) and are excluded, with their marks (1), (2) in the text (god's ruling, 2026-11-20). No misprints noted. Proofed vs scan. -->
+
+<!-- p. [unnumbered] (PDF 75) -->
+
+Cum inter legendum libros Controversiarum mearum, subinde inciderem in aliqua errata non levis momenti: operæ pretium me facturum existimavi, si occasione ejusmodi erratorum Opus meum ipse perlegerem, et castigarem, nec solum menda, quæ irrepserant auferrem, sed etiam pro jure, quod unusquisque in proprios partus habet, quædam nonnullis in locis adderem, pauca quoque detraherem, vel mutarem. Id ita feci, ut disputationes ipsas, vel locupletiores, vel clariores, adeoque meliores effectas esse plane confidam. Quare Typographos, qui forte libros hos meos, (cum legitima tamen facultate) recudent, hortor, et oro, ut juxta hanc editionem diligenter fideliterque recudant.

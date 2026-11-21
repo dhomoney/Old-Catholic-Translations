@@ -1,0 +1,7 @@
+# TO THE SAME, AND TO THE PRINTERS, CONCERNING THE REVISION OF THIS WORK, THE AUTHOR'S ADMONITION
+
+<!-- Translated from latin/bellarmine-controversiae/admonitio-recognitione-003.md (Scribe branch agent/mose-scribe--mwp7hse4, commit 3cdaa48). Source: bellermine-de-controversiis-fidei-1.pdf (Bellarmini Opera omnia, ed. Justinus Fèvre, tomus I, Paris, Vivès), PDF p. 75 (no printed folio; follows printed p. 51). Paragraphs and page markers follow the Latin file one for one. The Fèvre edition's two footnotes on this page, and their marks (1), (2), are left out (god's ruling, 2026-11-20). -->
+
+<!-- p. [unnumbered] (PDF 75) -->
+
+Whereas, in reading the books of my Controversies, I lighted from time to time upon certain errors of no light moment: I judged that I should do a thing worth the labour, if on occasion of such errors I should myself read through my Work, and correct it, and should not only take away the faults which had crept in, but also, by the right which every man hath over his own offspring, add certain things in some places, and likewise take away, or change, a few. This I have so done, that I plainly trust the disputations themselves have been made either richer, or clearer, and so better. Wherefore the Printers, who shall perchance print these my books again, (yet with lawful licence) I exhort, and beseech, that they print them again diligently and faithfully according to this edition.

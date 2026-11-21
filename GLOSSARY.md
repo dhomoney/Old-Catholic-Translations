@@ -443,3 +443,73 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | librarii | copyists | scriptores "scribes" (Ps 18) | Ps 21 |
 | figura collectionis | the figure of collection | | Ps 21 |
 | paragogica (littera) | paragogic | | Ps 21 |
+| recognitio (operis) | revision (of the work) | title *Recognitio librorum* kept in Latin with the English in brackets | Controversiae, Admonitio |
+| errata / menda | errors / faults | | Controversiae, Admonitio |
+| Typographi | the Printers | | Controversiae, Admonitio |
+| recudere | to print again | | Controversiae, Admonitio |
+| legitima facultas | lawful licence | | Controversiae, Admonitio |
+| partus (proprii) | (his own) offspring | of an author's books | Controversiae, Admonitio |
+| stillicidia et fundi | eaves-droppings and farms | petty matters of civil law | Controversiae, Præfatio |
+| hæresis / hæreticus homo | heresy / the heretical man | | Controversiae, Præfatio |
+| pestis / lues | plague / pestilence | | Controversiae, Præfatio |
+| flagitia | enormities | with scelera, crimes | Controversiae, Præfatio |
+| Ethnici | Heathens | | Controversiae, Præfatio |
+| officinæ spiritualium pharmacorum | shops of spiritual medicines | | Controversiae, Præfatio |
+| Centuriatores | the Centuriators | | Controversiae, Præfatio |
+| Augustana Confessio | the Confession of Augsburg | | Controversiae, Præfatio |
+| amplificatio / extenuatio | amplification / extenuation | | Controversiae, Præfatio |
+| prima Sabbati | on the first day of the week | quinta: on the fifth | Ps 23 |
+| orbis terrarum / orbis terræ habitabilis | the world / the habitable world | Ps. xxiii, 1 | Ps 23 |
+| coloni | husbandmen | | Ps 23 |
+| relativum reciprocum | the reflexive pronoun | | Ps 23 |
+| puncta Rabbinorum | the points of the Rabbins | | Ps 23 |
+| (pronomen) affixum | an affix; affixed | | Ps 23 |
+| ex condigno (mereri) | (to merit) condignly | | Ps 23 |
+| prosopopœia | prosopopœia | | Ps 23 |
+| Dominus virtutum / exercituum | the Lord of hosts (verse); the Lord of powers / of armies (where the words are discussed) | Ps. xxiii, 10 | Ps 23 |
+| nomen quatuor litterarum | the name of four letters | | Ps 23 |
+| dii per participationem | gods by participation | | Ps 23 |
+| Psalmi alphabetici | alphabetical Psalms | | Ps 24 |
+| sustinere Dominum | to wait on the Lord | Douay-Rheims 'wait on'; Latin given beside where he defines it | Ps 24 |
+| supervacue | without cause (verse); 'without cause and in vain' for *supervacue ac frustra* | Ps. xxiv, 3 | Ps 24 |
+| miseratio / misericordia | compassion / mercy | verse: 'bowels of compassion', 'mercies' | Ps 24 |
+| viscera paterna | a father's bowels | | Ps 24 |
+| testamentum / pactum | testament / covenant | the verse keeps the Douay-Rheims 'covenant' for *testamentum*; fœdus: league | Ps 24 |
+| firmamentum / fundamentum | firmament / foundation | Ps. xxiv, 15 | Ps 24 |
+| quoad praxim / intelligentia speculativa | as to practice / speculative understanding | | Ps 24 |
+| unicus | alone | Ps. xxiv, 17 | Ps 24 |
+| angustiæ | straits | | Ps 24 |
+| humilitas (= abjectio) | abjection (verse); humility where the word is discussed | Ps. xxiv, 19 | Ps 24 |
+| casus accusandi / nominativus | the accusative / nominative case | | Ps 24 |
+| abstractum pro concreto | the abstract for the concrete | | Ps 24 |
+| puncta subjicere | to set the points beneath | of the Rabbins | Ps 24 |
+| appellare (Deum) / provocare ad judicium | to appeal to | | Ps 25 |
+| causa cadere | to lose one's cause | | Ps 25 |
+| concilium vanitatis | the council of vanity | Ps. xxv, 4; of the meetings of idolaters | Ps 25 |
+| ecclesia malignantium / in ecclesiis | the assembly of the malignant / in the churches | Ps. xxv, 5, 12 (Douay-Rheims) | Ps 25 |
+| conventicula | conventicles | conventus: meetings, assembly | Ps 25 |
+| viri sanguinum | bloody men (verse); word for word 'men of bloods' | Ps. xxv, 9 | Ps 25 |
+| in directo / in rectitudine | in the direct way / in uprightness | Ps. xxv, 12 | Ps 25 |
+| species pro genere | the species for the genus | | Ps 25 |
+| oraculum | the oracle | of the tabernacle | Ps 25 |
+| compendium | abridgment | of a longer Psalm | Ps 27 |
+| petra mea / fortis meus | my rock / my strong one | צורי | Ps 27 |
+| obsurdescere | to be deaf | St. Jerome's reading | Ps 27 |
+| oratio ecclesiastica | prayer of the Church | | Ps 27 |
+| mali male pereant | the evil come to an evil end | cf. Matt. xxi, 41 | Ps 27 |
+| secundæ causæ | second causes | | Ps 27 |
+| ædificatio | building | | Ps 27 |
+| reflorere | to flourish again | Ps. xxvii, 7 (Douay-Rheims) | Ps 27 |
+| salvationes | salvations | plural discussed; verse keeps the Douay-Rheims "salvation" | Ps 27 |
+| impassibilitas, agilitas, splendor | impassibility, agility, brightness | gifts of a glorious body | Ps 27 |
+| Symbolum Apostolicum | the Apostles' Creed | | Controversiae 005 |
+| humani generis hostis | the enemy of mankind | | Controversiae 005 |
+| delectus | levy | of troops | Controversiae 005 |
+| Sacramentarii | Sacramentarians | | Controversiae 005 |
+| Confessionistæ | Confessionists | of the Augsburg Confession | Controversiae 005 |
+| palinodia | recantation | | Controversiae 005 |
+| loca Purgatoria | the places of Purgatory | | Controversiae 005 |
+| proœmium | proem | | Controversiae 005 |
+| verbum Dei internum / externum | the inward / outward word of God | | Controversiae 005 |
+| voce traditum | delivered by voice | | Controversiae 005 |
+| Petrus Gnapheus | Peter Gnapheus | name kept as printed | Controversiae 005 |
