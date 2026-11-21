@@ -564,3 +564,13 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | decor (Ps. xxix, 8) | beauty | Douay-Rheims; elsewhere "comeliness" | Ps 29 |
 | compungi | to be pricked | verse keeps the Douay-Rheims "regret" | Ps 29 |
 | passibilitas | passibility | | Ps 29 |
+| exstasis / excessus mentis | ecstasy / excess of mind | Ps. xxx title and verse 28 | Ps 30 |
+| necessitates (Ps. xxx, 9) | distresses (verse); explained as "the straits in which I stuck fast of necessity" | | Ps 30 |
+| super / apud / ab omnibus inimicis meis | above / among / by all my enemies | Ps. xxx, 14; the Douay-Rheims verse has "among"; Latin kept, with a note | Ps 30 |
+| vituperatio | blame | Ps. xxx, 16, Douay-Rheims | Ps 30 |
+| abusio (Ps. xxx, 22) | abuse | contemptus is "contempt" | Ps 30 |
+| perficere (Ps. xxx, 24) | to work (verse: "thou hast wrought"); "to perfect" in the explanation | Latin given beside at the first mention | Ps 30 |
+| in conspectu / e regione, ex opposito | in the sight / over against, opposite | נגד; as Ps 22 | Ps 30 |
+| pythonissa | the woman that had a divining spirit | I Kings xxviii, 7, Douay-Rheims | Ps 30 |
+| Psalterium S. Petri / ecclesiæ S. Petri Romæ | the Psalter of St. Peter's / of the church of St. Peter at Rome | | Ps 30 |
+| consternatio | dismay | | Ps 30 |
