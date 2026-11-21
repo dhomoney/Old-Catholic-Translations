@@ -513,3 +513,41 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | verbum Dei internum / externum | the inward / outward word of God | | Controversiae 005 |
 | voce traditum | delivered by voice | | Controversiae 005 |
 | Petrus Gnapheus | Peter Gnapheus | name kept as printed | Controversiae 005 |
+| in via et in spe / in patria et in re | on the way and in hope / in their country and in possession | of the blessed | Ps 22 |
+| ovicula | little sheep | | Ps 22 |
+| rationabiles oves | reasonable sheep | | Ps 22 |
+| pascua / pabula | pastures / fodder | | Ps 22 |
+| refectio / requies | refreshment / rest | Ps. xxii, 2 | Ps 22 |
+| sustentatio | upholding | of the staff, Ps. xxii, 5 | Ps 22 |
+| fulcrum | a prop | | Ps 22 |
+| e regione / ex adverso | over against / on the opposite side | Ps. xxii, 6 | Ps 22 |
+| subaudiri / subintelligere | to be understood / to understand | of a word supplied | Ps 22 |
+| redundat | it is superfluous | of a word in a version | Ps 22 |
+| linire / ungere; unctio | to anoint; anointing | Ps. xxvi title | Ps 26 |
+| designare (regem) | to mark out | opp. consecrare | Ps 26 |
+| illuminatio | light (verse, Douay-Rheims) | Ps. xxvi, 1 | Ps 26 |
+| castra | armies in camp (verse); camps | Ps. xxvi, 5 | Ps 26 |
+| genus femininum / neutrum | the feminine / neuter gender | | Ps 26 |
+| propitiatorium | the propitiatory | | Ps 26 |
+| voluptas (Domini) | delight | actio delectationis: the act of delighting; voluptas objectiva: objective delight | Ps 26 |
+| solidior schola | the more solid school | on beatitude in the vision of God | Ps 26 |
+| interpunctio | pointing | of a verse | Ps 26 |
+| hostia vociferationis | a sacrifice of jubilation | Ps. xxvi, 11 (Douay-Rheims) | Ps 26 |
+| timor castus / servilis | chaste / servile fear | | Ps 26 |
+| Neoterici | the Moderns | recent translators | Ps 26 |
+| apostrophe | apostrophe | | Ps 26 |
+| consummatio tabernaculi | the finishing of the tabernacle | Ps. xxviii title (Douay-Rheims) | Ps 28 |
+| prior / posterior intelligentia | the former / latter understanding | the two expositions of Ps 28 | Ps 28 |
+| tabernaculum umbraticum | the shadowy tabernacle | | Ps 28 |
+| atrium / aula / vestibulum | court / hall / porch | atrium subdiale: a court open to the sky | Ps 28 |
+| decor | comeliness | | Ps 28 |
+| fabrica (Ecclesiæ) | fabric | | Ps 28 |
+| fulmen | thunderbolt | fulgur: lightning | Ps 28 |
+| intercidere | to cut asunder | verse keeps the Douay-Rheims "divideth" | Ps 28 |
+| parturire facere | to make to travail | | Ps 28 |
+| cervi / cervæ | stags / hinds | species cervina: the deer kind | Ps 28 |
+| condensa | the thick woods | Ps. xxviii, 9 (Douay-Rheims) | Ps 28 |
+| lorica | coat of mail | | Ps 28 |
+| Ordo (sacramentum) | Order | | Ps 28 |
+| arbitrii libertas (as a topic) | free will | the name of the controversy; as liberum arbitrium | Controversiae 004 |
+| deliciæ et voluptates | pleasures and delights | voluptas keeps "delight" | Ps 28 |
