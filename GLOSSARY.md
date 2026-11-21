@@ -574,3 +574,14 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | pythonissa | the woman that had a divining spirit | I Kings xxviii, 7, Douay-Rheims | Ps 30 |
 | Psalterium S. Petri / ecclesiæ S. Petri Romæ | the Psalter of St. Peter's / of the church of St. Peter at Rome | | Ps 30 |
 | consternatio | dismay | | Ps 30 |
+| Confessarius | Confessor | capital as in the Latin | Homo apostolicus, Introductio |
+| bonitas habitualis / positiva | habitual / positive goodness | | Homo apostolicus, Introductio |
+| morum probitas / integritas | uprightness / integrity of life | | Homo apostolicus, Introductio |
+| tomus | tome | | Homo apostolicus, Introductio |
+| Opusculum | little Work | | Homo apostolicus, Introductio |
+| condescendentia | condescension | of over-indulgent authors | Homo apostolicus, Introductio |
+| occasio proxima / habituati / recidivi | proximate occasion / habitual sinners / relapsing sinners | | Homo apostolicus, Introductio |
+| casus et censuræ reservatæ | reserved cases and censures | | Homo apostolicus, Introductio |
+| Ordinandi | those to be ordained | | Homo apostolicus, Introductio |
+| advertentiæ / monita | advertisements / admonitions | | Homo apostolicus, Introductio |
+| oratio supernaturalis / mentalis | supernatural / mental prayer | | Homo apostolicus, Introductio |

@@ -23,6 +23,8 @@ WORKS = {
                                      source="St. Robert Bellarmine, Disputationes de controversiis christianae fidei (Opera omnia, ed. Fèvre)"),
     "liguori-theologia-moralis": dict(title="Liguori, Moral Theology", author="St. Alphonsus Liguori",
                                       source="St. Alphonsus Liguori, Theologia moralis (Marietti, Turin, 1879)"),
+    "liguori-homo-apostolicus": dict(title="Liguori, Homo apostolicus", author="St. Alphonsus Liguori",
+                                     source="St. Alphonsus de Liguori, Homo apostolicus instructus ad audiendas confessiones (Paris, Godbert, 1837), from the archive.org OCR text only; no page scan, so the Latin is not proofed against an image"),
 }
 PSALMS = "bellarmine-psalms"
 
