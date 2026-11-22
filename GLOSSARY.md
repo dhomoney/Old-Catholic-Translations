@@ -601,3 +601,64 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | camus / frenum / lupatum / capistrum | bit / bridle / curb / halter | Ps. xxxi, 12 | Ps 31 |
 | gloriari / jubilare | to glory / to shout for joy | Ps. xxxi, 14 | Ps 31 |
 | via morum | the way of conduct | | Ps 31 |
+| confiteri Domino (Ps. xxxii, 2) | to give praise to the Lord (verse); "to confess to the Lord with the confession of praise" in the explanation | Douay-Rheims | Ps 32 |
+| psallere (of the Divine Office) | to sing psalms | psalmodia "psalmody"; of instruments "to play" | Ps 32 |
+| in vociferatione (Ps. xxxii, 3) | with a loud noise | Douay-Rheims; jubilatio "jubilation", jubilus "a shout of joy" | Ps 32 |
+| homo vetus / novus | the old man / the new man | | Ps 32 |
+| in fide (Ps. xxxii, 4) | done with faithfulness (verse); *in fide* (in faith) kept where he explains it | Douay-Rheims | Ps 32 |
+| mandatum, prohibitio, promissio, comminatio | commandment, prohibition, promise, threatening | | Ps 32 |
+| (misericordia, gratia) præveniens, comitans, subsequens | preventing, accompanying, following | | Ps 32 |
+| actus purus | pure act | | Ps 32 |
+| virtus (Ps. xxxii, 6, 16, 17) | power (v. 6); army (v. 16, first member); strength (v. 16-17) | Douay-Rheims; Latin given beside where he explains it | Ps 32 |
+| exercitus / ornatus (cœli) | army / adornment | צבאם | Ps 32 |
+| uter (Ps. xxxii, 7) | vessel | Douay-Rheims; note at the first mention | Ps 32 |
+| thesauri / abyssi (Ps. xxxii, 7) | storehouses / the depths | Douay-Rheims; "treasure" in Matt. ii and xiii, "the deep" at Gen. i, 2 | Ps 32 |
+| commoveri ab eo (Ps. xxxii, 8) | to be in awe of him | Douay-Rheims; explained as "to tremble" | Ps 32 |
+| dissipat / reprobat ... reprobat (Ps. xxxii, 10) | bringeth to naught / rejecteth ... casteth away | Douay-Rheims | Ps 32 |
+| cogitationes (Ps. xxxii, 10) | devices | Douay-Rheims; "thoughts" in v. 11 and elsewhere | Ps 32 |
+| infatuare / dissolvere / irritum facere | to make foolish / to undo / to make void | of men's counsels | Ps 32 |
+| consultatio / electio | consultation / choice | | Ps 32 |
+| felix | happy | felicitas stays "felicity" | Ps 32 |
+| populus peculiaris | peculiar people | | Ps 32 |
+| singillatim (Ps. xxxii, 15) | of every one of them (verse); "one by one" where the word is discussed | Douay-Rheims | Ps 32 |
+| pariter (יחד) | alike | Ps. xxxii, 15 | Ps 32 |
+| dogma ecclesiasticum | dogma of the Church | | Ps 32 |
+| salus (Ps. xxxii, 16-19) | safety (of the body, as the Douay-Rheims at v. 17); salvation (of the soul) | | Ps 32 |
+| fallax (Ps. xxxii, 17) | vain (verse); "deceitful" in the explanation | Douay-Rheims, Latin beside it once | Ps 32 |
+| eruere (Ps. xxxii, 19) | to deliver | Douay-Rheims; "to pluck out" at Ps. vi | Ps 32 |
+| amor liberalis | free love | set against servile fear | Ps 32 |
+| sustinere Dominum (Ps. xxxii, 20) | to wait for the Lord | Douay-Rheims; "to wait on" at Ps. xxiv | Ps 32 |
+| lætari / sperare (Ps. xxxii, 21) | to rejoice / to trust (verse) | Douay-Rheims; Latin beside both; "to hope" in the explanation and in v. 22 | Ps 32 |
+| vacat (of a word) | is without force | redundat is "it is superfluous" | Ps 32 |
+| summum scelus | the greatest crime | | Ps 32 |
+| immutare vultum / sensum | to change his countenance / his sense | Ps. xxxiii title | Ps 33 |
+| dimittere (Ps. xxxiii title) | to dismiss | expellere "to drive out", projicere "to cast forth", repudiare "to put away" | Ps 33 |
+| impressores | printers | librarii stay "copyists" | Ps 33 |
+| lætari (Ps. xxxiii, 2) | to rejoice | Douay-Rheims of the verse | Ps 33 |
+| in idipsum (Ps. xxxiii, 3) | together | Douay-Rheims; pariter, una, conjunctim "together, as one, jointly" | Ps 33 |
+| tribulationes (Ps. xxxiii) | troubles (v. 4, 6, 17); afflictions (v. 19) | Douay-Rheims; "tribulation" in the prose | Ps 33 |
+| illuminari, illuminatio (Ps. xxxiii, 5) | to be enlightened, enlightening | "illuminated" inside the Douay-Rheims quotation of Heb. vi, 4 | Ps 33 |
+| confundi (facies) | to be confounded | "put to confusion" in III Kings ii, 20, Latin beside it | Ps 33 |
+| immittet (Ps. xxxiii, 7) | shall encamp | Douay-Rheims, Latin beside it once; castrametari "to encamp" | Ps 33 |
+| suavis / dulcis (Dominus) | sweet | Ps. xxxiii, 8 and I Pet. ii, 3 | Ps 33 |
+| experimentum sumere / periculum facere | to make experiment / to make trial | | Ps 33 |
+| incipientes / proficientes / perfecti | them that begin / them that advance / the perfect | | Ps 33 |
+| inopia / defectus | want / lack | Ps. xxxiii, 9 | Ps 33 |
+| non minuentur omni bono (Ps. xxxiii, 10) | shall not be deprived of any good | Douay-Rheims; Latin kept where he explains the Hebrew phrase | Ps 33 |
+| vita beata | the blessed life | | Ps 33 |
+| peccata commissionis / omissionis | sins of commission / omission | | Ps 33 |
+| peccata linguæ, operis, cordis | sins of the tongue, of work, of the heart | | Ps 33 |
+| primum caput Decalogi | the first head of the Decalogue | | Ps 33 |
+| tribulato corde (Ps. xxxiii, 18) | of a contrite heart (verse); "of a troubled heart" beside it | Douay-Rheims | Ps 33 |
+| delinquere (Ps. xxxiii, 21-22) | to be guilty (v. 21), to offend (v. 22); Latin kept where the word is discussed | Douay-Rheims | Ps 33 |
+| scopus / cursus / bravium | mark / course / prize | | Ps 33 |
+| finis ultimus | the last end | | Ps 33 |
+| spes viva | a lively hope | I Pet. i, 3, Douay-Rheims | Ps 33 |
+| sperare (Ps. xxxiii, 22) | to trust | Douay-Rheims of the verse; "to hope" in v. 8 | Ps 33 |
+| deliratio | dotage | of Swenckfeld and the Libertines | Controversiae, De verbo Dei I, 1 |
+| littera occidens / spiritus qui vivificat | the killing letter / the spirit that quickeneth | II Cor. iii, 6 | Controversiae, De verbo Dei I, 1 |
+| idiotæ | the unlearned | | Controversiae, De verbo Dei I, 1 |
+| scomma | scoff | | Controversiae, De verbo Dei I, 1 |
+| Scriptura Prophetica et Apostolica | the Prophetical and Apostolical Scripture | | Controversiae, De verbo Dei I, 1 |
+| regula Fidei | rule of Faith | capital as in the Latin | Controversiae, De verbo Dei I, 1 |
+| Gaspar Swenckfeldius, Fredericus Staphilus, Copinus, Quintinus | Gaspar Swenckfeld, Frederick Staphilus, Copin, Quintin | names kept as printed | Controversiae, De verbo Dei I, 1 |
