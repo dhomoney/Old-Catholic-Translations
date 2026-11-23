@@ -662,3 +662,48 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | Scriptura Prophetica et Apostolica | the Prophetical and Apostolical Scripture | | Controversiae, De verbo Dei I, 1 |
 | regula Fidei | rule of Faith | capital as in the Latin | Controversiae, De verbo Dei I, 1 |
 | Gaspar Swenckfeldius, Fredericus Staphilus, Copinus, Quintinus | Gaspar Swenckfeld, Frederick Staphilus, Copin, Quintin | names kept as printed | Controversiae, De verbo Dei I, 1 |
+| clypeus / scutum (Ps. xxxiv, 2) | buckler / shield | where the two stand together; each alone is "shield" | Ps 34 |
+| effunde frameam / conclude (Ps. xxxiv, 3) | bring out the sword / shut up the way (verse); "pour out", "close" beside the Latin where he explains the words | Douay-Rheims; spiculum "dart", lancea "spear" | Ps 34 |
+| justitia vindicativa | vindictive justice | | Ps 34 |
+| salus (Ps. xxxiv, 3) | salvation (verse); "health" where he sets it against medicus | Latin given beside | Ps 34 |
+| revereri / erubescere / verecundari (Ps. xxxiv) | to be ashamed / to blush / to be abashed | Douay-Rheims of v. 4 and 29; erubescentia "blushing" | Ps 34 |
+| exitium / ruina / pernicies | ruin / fall / undoing | interitus stays "destruction" | Ps 34 |
+| insidiæ (Ps. xxxiv) | ambushes | insidiatores "them that lie in wait" | Ps 34 |
+| interitus laquei / captio (Ps. xxxiv, 8-9) | their net ... unto destruction / the net (verse); "the destruction of the snare", "the catching" beside the Latin | Douay-Rheims; note at the lemma | Ps 34 |
+| gestire | to leap for joy; to leap (for delight) | exultare stays "to rejoice" | Ps 34 |
+| sterilitas (Ps. xxxiv, 14) | barrenness | lemma keeps the Douay-Rheims "the depriving"; note | Ps 34 |
+| cilicium / saccus | haircloth / sackcloth | | Ps 34 |
+| casus auferendi | the ablative case | | Ps 34 |
+| pius affectus / pia mater | tender affection / tender mother | of natural feeling; pii stays "the godly" | Ps 34 |
+| compuncti (Ps. xxxiv, 19) | repented (verse) | Douay-Rheims, Latin beside it; resipiscere "to come to a better mind" | Ps 34 |
+| subsannare subsannatione (Ps. xxxiv, 19) | to scoff at with scorn | Douay-Rheims; "to deride" at Ps. ii | Ps 34 |
+| restituere (Ps. xxxiv, 20) | to rescue (verse); "to restore" in the explanation | Douay-Rheims, Latin beside it once | Ps 34 |
+| unice dilecta / unice amare | singularly beloved / to love above all things | Ps. xxxiv, 20 | Ps 34 |
+| populus gravis (Ps. xxxiv, 21) | a strong people (verse); gravis "weighty", robustus "mighty" where the words are discussed | Douay-Rheims | Ps 34 |
+| iracundia (Ps. xxxiv, 23) | anger | Douay-Rheims; scissuræ terræ "the rents of the earth", disrumpi "to be rent asunder" | Ps 34 |
+| euge (Ps. xxxiv, 24 and 28) | well done (v. 24); it is well (v. 28) | Douay-Rheims | Ps 34 |
+| lis | suit | litigare "to go to law" | Ps 34 |
+| delinquere (Ps. xxxv, 1) | to sin | Douay-Rheims of the verse | Ps 35 |
+| dolose agere (Ps. xxxv, 2) | hath done deceitfully (verse); "to deal deceitfully" in the explanation | Douay-Rheims | Ps 35 |
+| malitia (Ps. xxxv, 4) | evil (verse) | Douay-Rheims; "malice" of men in the argument and v. 5 | Ps 35 |
+| veritas / fidelitas | truth / faithfulness | Ps. xxxv, 5 | Ps 35 |
+| abyssus multa (Ps. xxxv, 6) | a great deep | Douay-Rheims; vorago "gulf" | Ps 35 |
+| salvare (Ps. xxxv, 7) | to preserve | Douay-Rheims of the verse, Latin beside it once; conservare "to keep" | Ps 35 |
+| sperare in tegmine (Ps. xxxv, 8) | to put their trust under the covert | Douay-Rheims | Ps 35 |
+| pietas paterna, materna (Dei) | fatherly, motherly loving-kindness | as oculus pietatis | Ps 35 |
+| ubertas / torrens voluptatis (Ps. xxxv, 9) | plenty / the torrent of thy pleasure | Douay-Rheims; voluptas elsewhere "delight" | Ps 35 |
+| ebrietas / satietas | drunkenness / satiety | saturus "satisfied" | Ps 35 |
+| summum bonum | the supreme good | | Ps 35 |
+| fruitio, frui | fruition, to enjoy | | Ps 35 |
+| complexus | clasping | as complecti | Ps 35 |
+| lumen gloriæ | the light of glory | | Ps 35 |
+| recti corde (Ps. xxxv, 11) | right in heart | Douay-Rheims of the verse; "the upright of heart" at Ps. vii | Ps 35 |
+| notitia familiaritatis et amicitiæ | the knowledge of familiarity and friendship | | Ps 35 |
+| donum perseverantiæ / status gratiæ | the gift of perseverance / the state of grace | | Ps 35 |
+| concilium Arausicanum II | the second Council of Orange | | Ps 35 |
+| legatio (Christi, Joannis) | mission | | Controversiae, De verbo Dei I, 2 |
+| internus afflatus / spiritus interni judicium | inward inspiration / the judgment of the inward spirit | | Controversiae, De verbo Dei I, 2 |
+| conspiratio atque concordia | agreement and concord | consensio "consent" (of nations), "agreement" (of authors) | Controversiae, De verbo Dei I, 2 |
+| calami (Spiritus sancti) | pens | | Controversiae, De verbo Dei I, 2 |
+| vaticinia / prædictiones | prophecies / predictions | | Controversiae, De verbo Dei I, 2 |
+| Demetrius Phaleræus, Aristæus, Theopompus, Theodorus | Demetrius Phalereus, Aristæus, Theopompus, Theodorus | Aristæus kept as printed | Controversiae, De verbo Dei I, 2 |
