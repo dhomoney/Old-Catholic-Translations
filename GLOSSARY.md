@@ -741,3 +741,33 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | documentum | lesson | | Ps 37 |
 | sollicitus | solicitous | | Ps 37 |
 | corripere (of Nathan) | to correct | "to chastise" in the verse (Ps. vi, 1; xxxvii, 1) | Ps 37 |
+| advena / peregrinus (Ps. xxxviii, 17) | stranger / sojourner | Douay-Rheims; peregrinatio "pilgrimage" | Ps 38 |
+| advertere, advertentia | to advert, advertence | | Theologia moralis, Tr. I, cap. 1 |
+| aranea / tinea | spider / moth | | Ps 38 |
+| conscientia formata | a formed conscience | | Theologia moralis, Tr. I, cap. 1 |
+| conscientia recta, erronea, perplexa, scrupulosa, dubia, probabilis | right, erroneous, perplexed, scrupulous, doubtful, probable conscience | | Theologia moralis, Tr. I, cap. 1 |
+| conturbatur (Ps. xxxviii, 9, 15) | is disquieted | Douay-Rheims | Ps 38 |
+| corripere (Ps. xxxviii, 14) | to correct | Douay-Rheims; correptio "correction" | Ps 38 |
+| custodiam vias meas (Ps. xxxviii, 1) | I will take heed to my ways | Douay-Rheims; custodia (v. 2) "guard" | Ps 38 |
+| dictamen (practicum) | (practical) dictate | dictare "to dictate" | Theologia moralis, Tr. I, cap. 1 |
+| distinctiones (Rabbinorum) | stops | as the Ps 9 row | Ps 38 |
+| exspectatio (Ps. xxxviii, 11) | hope (verse); "expectation" beside it and in the prose | Douay-Rheims | Ps 38 |
+| honestas (actionis) | moral goodness | | Theologia moralis, Tr. I, cap. 1 |
+| Idithum | Idithun | Douay-Rheims | Ps 38 |
+| in finem / pro victoria (title of Ps. xxxviii) | unto the end / for victory | Latin kept at the first mention | Ps 38 |
+| in imagine (Ps. xxxviii, 9) | as an image (verse); "in an image" beside it and in the prose | Douay-Rheims | Ps 38 |
+| materialiter / formaliter (peccare) | materially / formally | | Theologia moralis, Tr. I, cap. 1 |
+| mensurabiles / palmares / palæstra | measurable / of a palm's breadth / wrestling-place | Ps. xxxviii, 7 | Ps 38 |
+| mereri / demereri | to merit / to demerit | | Theologia moralis, Tr. I, cap. 1 |
+| plagæ (Ps. xxxviii, 13) | scourges (verse); "stripes" beside it and in the prose | Douay-Rheims; flagella stay "scourges" | Ps 38 |
+| portio animæ superior / inferior | the superior / inferior portion of the soul | pars is "part" | Theologia moralis, Tr. I, cap. 1 |
+| reflexe / exercite | reflexly / in the act as exercised | | Theologia moralis, Tr. I, cap. 1 |
+| regula remota / proxima (actuum humanorum) | remote / proximate rule (of human acts) | | Theologia moralis, Tr. I, cap. 1 |
+| Salmant., Castrop., Anacl., Ronc., Nav. | the Salmanticenses, Castropalao, Anacletus, Roncaglia, Navarrus | abbreviated names of authors are written out | Theologia moralis, Tr. I, cap. 1 |
+| Septuaginta Seniores | the Seventy Elders | | Ps 38 |
+| substantia / subsistentia (Ps. xxxviii, 7) | substance / subsistence | | Ps 38 |
+| synderesis | synderesis | | Theologia moralis, Tr. I, cap. 1 |
+| timorata conscientia | a timorous conscience | | Theologia moralis, Tr. I, cap. 1 |
+| tractatus, punctum, examen, animadversio (in references) | tract, point, exam., animadversion | cap. of canon law: chap. with the Latin incipit and title in italics | Theologia moralis, Tr. I, cap. 1 |
+| universa vanitas, universitas vanitatis | all vanity, the whole sum of vanity | verse: "all things are vanity"; universitas iniquitatis (James iii, 6) "a world of iniquity" | Ps 38 |
+| vincibilis / invincibilis; vincere (errorem) | vincible / invincible; to overcome | | Theologia moralis, Tr. I, cap. 1 |
