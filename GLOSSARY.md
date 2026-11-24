@@ -771,3 +771,22 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | tractatus, punctum, examen, animadversio (in references) | tract, point, exam., animadversion | cap. of canon law: chap. with the Latin incipit and title in italics | Theologia moralis, Tr. I, cap. 1 |
 | universa vanitas, universitas vanitatis | all vanity, the whole sum of vanity | verse: "all things are vanity"; universitas iniquitatis (James iii, 6) "a world of iniquity" | Ps 38 |
 | vincibilis / invincibilis; vincere (errorem) | vincible / invincible; to overcome | | Theologia moralis, Tr. I, cap. 1 |
+| exspectans exspectavi / intendit mihi (Ps. xxxix, 1) | with expectation I have waited / he was attentive to me | Douay-Rheims | Ps 39 |
+| lacus (Ps. xxxix, 2) | pit | Douay-Rheims; fovea stays "hole", profundum "the deep" | Ps 39 |
+| gratia præveniens | preventing grace | | Ps 39 |
+| spes (Ps. xxxix, 6) | trust (verse); "hope" beside it and in the prose | Douay-Rheims | Ps 39 |
+| insaniæ falsæ (Ps. xxxix, 6) | lying follies (verse); insaniæ "madnesses" where he explains the word | Douay-Rheims | Ps 39 |
+| mirabilia (Ps. xxxix, 7) | wonderful works (verse); "wonders" in the prose | Douay-Rheims; Ps 9 row | Ps 39 |
+| inenarrabilis | untellable; "unspeakable" of joy | narrare "to tell", numerare "to number" | Ps 39 |
+| aures autem perfecisti mihi (Ps. xxxix, 9) | but thou hast pierced ears for me (verse, Douay-Rheims); "thou hast perfected ears for me" for the Vulgate reading | note 5 of the Psalm; fodisti "pierced", perfecisti "perfected" | Ps 39 |
+| holocaustum et pro peccato (Ps. xxxix, 10) | burnt offering and sin offering (verse); sacrificium pro peccato "sacrifice for sin" | Douay-Rheims; "whole burnt offering" at Ps. xix, 3 | Ps 39 |
+| hostia | victim | | Ps 39 |
+| in capite libri (Ps. xxxix, 11) | in the head of the book | Douay-Rheims; volumen libri "the roll of the book", summa "the sum", capitulum (Heb. viii, 1) "the sum" | Ps 39 |
+| ecclesia magna / concilium multum (Ps. xxxix, 12, 14) | a great church / a great council | Douay-Rheims | Ps 39 |
+| salutare (Ps. xxxix, 13, 22) | salvation | Latin beside where he sets it against salus; Salvator "Saviour" | Ps 39 |
+| veritas / fidelitas | truth / faithfulness | | Ps 39 |
+| miserationes (Ps. xxxix, 15) | tender mercies | Douay-Rheims; ne longe facias "withhold not", "put not far" beside it | Ps 39 |
+| revereantur (Ps. xxxix, 19, 20) | be ashamed | Douay-Rheims; verecundia "shame", erubescentia "blushing" | Ps 39 |
+| euge, euge (Ps. xxxix, 21) | 'tis well, 'tis well | Douay-Rheims; "it is well" at Ps. xxxiv, 25 | Ps 39 |
+| mendicus et pauper / sollicitus est mei (Ps. xxxix, 23) | a beggar and poor / is careful for me | Douay-Rheims | Ps 39 |
+| doctor et magister | doctor and master | | Ps 39 |
