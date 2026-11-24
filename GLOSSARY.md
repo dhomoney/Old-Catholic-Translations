@@ -725,3 +725,19 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | æquitas (Ps. xxxvi, 39) | justice (verse); "equity" beside it | Douay-Rheims; æquitas stays "equity" in the prose | Ps 36 |
 | robustus / fortissimus | strong / most mighty | Ps. xxxvi, 37, of the Hebrew | Ps 36 |
 | luxuria | luxury | the Douay-Rheims word (Gal. v, 19); peccatum luxuriæ "the sin of luxury" | Ps 36, 37 |
+| rememoratio (title of Ps. xxxvii) | remembrance | Douay-Rheims | Ps 37 |
+| furor, ira (Ps. xxxvii, 1) | indignation, wrath | Douay-Rheims, as at Ps. vi, 1; kept in the commentary | Ps 37 |
+| venia / indulgentia | pardon / pardon | | Ps 37 |
+| cicatrices (Ps. xxxvii, 5) | sores (verse); "scars" beside it and in the prose | Douay-Rheims; plaga "stripe", livor "bruise", vulnus "wound" | Ps 37 |
+| delectatio / voluptates | delectation / delights | | Ps 37 |
+| illusiones (Ps. xxxvii, 7) | illusions | Douay-Rheims | Ps 37 |
+| spiritus maligni | wicked spirits | | Ps 37 |
+| justitia originalis | original justice | | Ps 37 |
+| pars inferior / superior | the inferior / superior part | of the soul | Ps 37 |
+| quoad essentiam / quoad usum | as to essence / as to use | | Ps 37 |
+| detrahere | to detract | Douay-Rheims (Ps. xxxvii, 21); detractiones "detractions" | Ps 37 |
+| redargutiones (Ps. xxxvii, 15) | reproofs | Douay-Rheims | Ps 37 |
+| exprobratio / comminatio | upbraiding / threatening | | Ps 37 |
+| documentum | lesson | | Ps 37 |
+| sollicitus | solicitous | | Ps 37 |
+| corripere (of Nathan) | to correct | "to chastise" in the verse (Ps. vi, 1; xxxvii, 1) | Ps 37 |
