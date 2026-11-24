@@ -707,3 +707,21 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | calami (Spiritus sancti) | pens | | Controversiae, De verbo Dei I, 2 |
 | vaticinia / prædictiones | prophecies / predictions | | Controversiae, De verbo Dei I, 2 |
 | Demetrius Phaleræus, Aristæus, Theopompus, Theodorus | Demetrius Phalereus, Aristæus, Theopompus, Theodorus | Aristæus kept as printed | Controversiae, De verbo Dei I, 2 |
+| maligni, malignantes (Ps. xxxvi) | evildoers | Douay-Rheims (v. 1, 9); "the wicked" at Ps. v, 5 | Ps 36 |
+| æmulari / zelare (Ps. xxxvi, 1, 7) | to be emulous, to envy / to envy | Douay-Rheims; *zelaveris*, *zelavi* given beside; æmulus "an emulator" | Ps 36 |
+| exterminari (Ps. xxxvi, 9) | to be cut off | Douay-Rheims | Ps 36 |
+| sustinere Dominum (Ps. xxxvi, 9) | to wait upon the Lord | Douay-Rheims; "to wait on" at Ps. xxiv, "to wait for" at Ps. xxxii | Ps 36 |
+| revela (Ps. xxxvi, 5) | commit (verse); "reveal" beside it | Douay-Rheims; volve "roll", revolve "roll back", rejice "cast" | Ps 36 |
+| inops (Ps. xxxvi, 15) | needy | Douay-Rheims; egenus "in want" | Ps 36 |
+| egestas / inopia | need / want | penuria "dearth", sterilitas "barrenness" | Ps 36 |
+| pharmacum | medicine | | Ps 36 |
+| aphorismus | aphorism | sententia beside it stays "sentence" | Ps 36 |
+| pusilli | the little ones | | Ps 36 |
+| iniquus (adjective: judex iniquus) | iniquitous | iniqui stay "men of iniquity" | Ps 36 |
+| monoceros | unicorn | | Ps 36 |
+| testes contestes | witnesses agreeing in their witness | omni exceptione majores "above all exception" | Ps 36 |
+| mutuo aut commodato dare | to give as a loan, whether of a thing to be repaid or of a thing to be used and returned | | Ps 36 |
+| volet (Ps. xxxvi, 24) | he shall like well (verse); "shall will" beside it | Douay-Rheims | Ps 36 |
+| æquitas (Ps. xxxvi, 39) | justice (verse); "equity" beside it | Douay-Rheims; æquitas stays "equity" in the prose | Ps 36 |
+| robustus / fortissimus | strong / most mighty | Ps. xxxvi, 37, of the Hebrew | Ps 36 |
+| luxuria | luxury | the Douay-Rheims word (Gal. v, 19); peccatum luxuriæ "the sin of luxury" | Ps 36, 37 |
