@@ -816,3 +816,24 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | verbum iniquum constituerunt (Ps. xl, 9) | they determined an unjust word | Douay-Rheims; decretum statuere "to establish a decree" | Ps 40 |
 | violentum, violentia | the violent, violence | kept apart from coactum | Suarez, De gratia, Proleg. I, cap. 1 |
 | voluntarium | the voluntary | ratio voluntarii "the nature of the voluntary" | Suarez, De gratia, Proleg. I, cap. 1 |
+| desiderat ad (Ps. xli, 1) | panteth after | Douay-Rheims; anhelare "to pant after" in the prose; desiderium "desire" | Ps 41 |
+| cervus (Ps. xli, 1) | the hart | Douay-Rheims; "stags" at Ps. xxviii | Ps 41 |
+| sitivit ad Deum fortem vivum (Ps. xli, 2) | hath thirsted after the strong living God | Douay-Rheims | Ps 41 |
+| effudi in me animam meam (Ps. xli, 4) | I poured out my soul in me | Douay-Rheims; effusio "pouring out"; transcendere (animam) "to pass beyond" | Ps 41 |
+| transibo / pertransibo in locum tabernaculi admirabilis (Ps. xli, 4) | I shall go over into the place of the wonderful tabernacle | Douay-Rheims; admiratio "wonder" | Ps 41 |
+| in voce exultationis et confessionis, sonus epulantis (Ps. xli, 5) | with the voice of joy and praise; the noise of one feasting | Douay-Rheims; festa celebrantis "of one keeping a feast" | Ps 41 |
+| confitebor illi (Ps. xli, 7, 16) | I will give praise to him | Douay-Rheims; confiteri misericordias "to confess his mercies" | Ps 41 |
+| salutare vultus mei (Ps. xli, 7, 16) | the salvation of my countenance | Douay-Rheims; salutes "salvations" | Ps 41 |
+| conturbare (Ps. xli, 6, 8; 15) | to trouble; "disquiet" at v. 15 | Douay-Rheims (its 6, 7; 12); tristis "sad", at v. 15 "cast down" | Ps 41 |
+| a monte modico (Ps. xli, 8) | from the little hill | Douay-Rheims; mons elsewhere "mountain" | Ps 41 |
+| abyssus abyssum invocat, in voce cataractarum tuarum (Ps. xli, 9) | deep calleth on deep, at the noise of thy flood-gates | Douay-Rheims; inundatio "inundation", diluvium "flood" | Ps 41 |
+| excelsa / fluctus (Ps. xli, 10) | heights / billows | Douay-Rheims; gurgites "floods" | Ps 41 |
+| mandavit (Ps. xli, 11) | hath commanded | Douay-Rheims; canticum ejus "a canticle to him" | Ps 41 |
+| susceptor (Ps. xli, 12) | support | Douay-Rheims, as the Ps 17 row; suscipere there "to take up" | Ps 41 |
+| contristatus incedo (Ps. xli, 13) | I go mourning | Douay-Rheims; contristari in the prose "to be made sorrowful" | Ps 41 |
+| exprobrare (Ps. xli, 14) | to reproach | Douay-Rheims | Ps 41 |
+| theatrales moduli | theatrical measures | of church singing | Ps 41 |
+| theorice / practice (intelligere) | speculatively / practically | | Ps 41 |
+| piæ expositiones | godly expositions | as pii "the godly" | Ps 41 |
+| patria | country | the heavenly country, set against exilium "exile", peregrinatio "pilgrimage" | Ps 41 |
+| increduli | unbelieving | infideles stay "unbelievers" | Ps 41 |
