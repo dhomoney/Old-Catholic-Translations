@@ -25,6 +25,8 @@ WORKS = {
                                       source="St. Alphonsus Liguori, Theologia moralis (Marietti, Turin, 1879)"),
     "liguori-homo-apostolicus": dict(title="Liguori, Homo apostolicus", author="St. Alphonsus Liguori",
                                      source="St. Alphonsus de Liguori, Homo apostolicus instructus ad audiendas confessiones (Paris, Godbert, 1837), from the archive.org OCR text only; no page scan, so the Latin is not proofed against an image"),
+    "suarez-de-gratia": dict(title="Suárez, On Grace (De gratia)", author="Francisco Suárez, S.J.",
+                             source="Francisci Suarez e Societate Jesu Opera omnia, ed. Carolus Berton, tomus septimus (Paris, Vivès), from the archive.org OCR text only; no page scan, so the Latin is not proofed against an image"),
 }
 PSALMS = "bellarmine-psalms"
 

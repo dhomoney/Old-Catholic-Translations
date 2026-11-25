@@ -790,3 +790,29 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | euge, euge (Ps. xxxix, 21) | 'tis well, 'tis well | Douay-Rheims; "it is well" at Ps. xxxiv, 25 | Ps 39 |
 | mendicus et pauper / sollicitus est mei (Ps. xxxix, 23) | a beggar and poor / is careful for me | Douay-Rheims | Ps 39 |
 | doctor et magister | doctor and master | | Ps 39 |
+| appetitus elicitus / innatus; actus elicitus | elicited / innate appetite; elicited act | appetitus sentiens "sensitive appetite" | Suarez, De gratia, Proleg. I, cap. 1 |
+| bona imprecatio | a good imprecation | a wish of good in the form of a prayer | Ps 40 |
+| buccella | the morsel | John xiii, 26-27 | Ps 40 |
+| coactio / coactum | coaction / the coerced | cogere "to coerce"; not "compulsion" | Suarez, De gratia, Proleg. I, cap. 1 |
+| deferre Patri | to defer to the Father | of Christ as man | Ps 40 |
+| fomes | the *fomes* | kept in Latin, explained once in a note | Suarez, De gratia, Proleg. I, cap. 1 |
+| homo pacis meæ (Ps. xl, 10) | the man of peace | Douay-Rheims; "the man of my peace" where Bellarmine explains meæ | Ps 40 |
+| humicubatio | lying on the ground | | Ps 40 |
+| in animam inimicorum (Ps. xl, 2) | to the will of his enemies | Douay-Rheims; the Latin is given beside it where Bellarmine explains anima as "will" | Ps 40 |
+| indifferentia | indifference | of the free power | Suarez, De gratia, Proleg. I, cap. 1 |
+| in id ipsum (Ps. xl, 7) | to the same purpose | Douay-Rheims; "in the selfsame" Ps. iv, "together" Ps. xxxiii | Ps 40 |
+| in patria | in the heavenly country | | Suarez, De gratia, Proleg. I, cap. 1 |
+| intelligit super egenum et pauperem (Ps. xl, 1) | understandeth concerning the needy and the poor | Douay-Rheims; egestas "need", penuria "dearth" as the Ps 36 row | Ps 40 |
+| lectus doloris / stratum / infirmitas (Ps. xl, 3) | bed of sorrow / couch / sickness | Douay-Rheims | Ps 40 |
+| libertas a servitute, a coactione, a necessitate | liberty from servitude, from coaction, from necessity | libertas is "liberty"; liber "free" | Suarez, De gratia, Proleg. I, cap. 1 |
+| magnificavit super me supplantationem (Ps. xl, 10) | hath greatly supplanted me | Douay-Rheims; supplantare "to supplant" | Ps 40 |
+| marsupium / loculi | the bag / the purse | of Judas (John xii, 6) | Ps 40 |
+| per antonomasiam | by antonomasia | | Suarez, De gratia, Proleg. I, cap. 1 |
+| proditio / proditor / prodere | betrayal / traitor / to betray | of Judas | Ps 40 |
+| prolegomenum | prolegomenon | | Suarez, De gratia, Proleg. I |
+| simpliciter / secundum quid | simply / in a certain respect | | Suarez, De gratia, Proleg. I, cap. 1 |
+| suppositum | supposit | | Suarez, De gratia, Proleg. I, cap. 1 |
+| suscepisti / confirmasti (Ps. xl, 13) | thou hast upheld / established | Douay-Rheims | Ps 40 |
+| verbum iniquum constituerunt (Ps. xl, 9) | they determined an unjust word | Douay-Rheims; decretum statuere "to establish a decree" | Ps 40 |
+| violentum, violentia | the violent, violence | kept apart from coactum | Suarez, De gratia, Proleg. I, cap. 1 |
+| voluntarium | the voluntary | ratio voluntarii "the nature of the voluntary" | Suarez, De gratia, Proleg. I, cap. 1 |
