@@ -837,3 +837,32 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | piæ expositiones | godly expositions | as pii "the godly" | Ps 41 |
 | patria | country | the heavenly country, set against exilium "exile", peregrinatio "pilgrimage" | Ps 41 |
 | increduli | unbelieving | infideles stay "unbelievers" | Ps 41 |
+| littera / spiritus (II Cor. iii, 6) | the letter / the spirit | Douay-Rheims; *non littera, sed spiritu* "not in the letter, but in the spirit" | Controversiae, De verbo Dei I, 3 |
+| ministratio / ministerium | ministration / ministry | ministration in II Cor. iii, 7-8 (Douay-Rheims) | Controversiae, De verbo Dei I, 3 |
+| per se ac proprie | of itself and properly |  | Controversiae, De verbo Dei I, 3 |
+| exploratus error / explodere | an undoubted error / to explode | of an opinion rejected by the Fathers | Controversiae, De verbo Dei I, 3 |
+| prudentia carnis | the wisdom of the flesh | Rom. viii, 6 (Douay-Rheims) | Controversiae, De verbo Dei I, 3 |
+| vitium (legis, peccati) | fault | vitiositas "viciousness"; vitiatus "vitiated" | Controversiae, De verbo Dei I, 3 |
+| lavacrum regenerationis / verbum reconciliationis | the laver of regeneration / the word of reconciliation | Tit. iii, 5; II Cor. v, 19 | Controversiae, De verbo Dei I, 3 |
+| dilectio | love | charitas stays "charity" | Controversiae, De verbo Dei I, 3 |
+| sceleratissimi (homines) | the most criminal (men) | as scelera "crimes" | Controversiae, De verbo Dei I, 3 |
+| cultores (legis) | them that keep it | set against transgressores "transgressors" | Controversiae, De verbo Dei I, 3 |
+| Swenckfeldiani / Libertini | Swenckfeldians / Libertines |  | Controversiae, De verbo Dei I, 3 |
+| juxta sensum / intellectum / sententiam (Origen) | according to the sense / the understanding / the meaning |  | Controversiae, De verbo Dei I, 3 |
+| utilitas (legis) | the profit (of the law) |  | Controversiae, De verbo Dei I, 3 |
+| operæ pretium | worth the labour |  | Controversiae, De verbo Dei I, 3 |
+| dissolvere (quæstionem, objectionem) | to solve | solvere legem stays "to break" | Controversiae, De verbo Dei I, 3 |
+| in servitutem generare | to engender unto bondage | Gal. iv, 24 (Douay-Rheims) | Controversiae, De verbo Dei I, 3 |
+| discernere causam (Ps. xlii, 1) | to distinguish the cause (verse); dijudicare "to decide", cognoscere causam "to take cognizance of the cause" | Douay-Rheims | Ps 42 |
+| homo iniquus et dolosus (Ps. xlii, 1) | the unjust and deceitful man | Douay-Rheims of the verse, also where he repeats its words; homines iniqui in his own prose stay "men of iniquity" | Ps 42 |
+| litiga litem meam / judica judicium meum | sue my suit / judge my judgment | Latin kept beside; patronus "advocate" | Ps 42 |
+| allusio nominis ad verbum | an allusion of the noun to the verb |  | Ps 42 |
+| expostulatio | expostulation |  | Ps 42 |
+| repellere (Ps. xlii, 2) | to cast off | Douay-Rheims | Ps 42 |
+| tempus pro tempore | one tense put for another | in præterito / in futuro "in the past / in the future" | Ps 42 |
+| lætificare juventutem (Ps. xlii, 4) | to give joy to the youth | Douay-Rheims | Ps 42 |
+| similitudo ætatis / coævi | likeness of age / equals in age | Dan. i, 10 | Ps 42 |
+| confiteri in cithara (Ps. xlii, 5) | to give praise upon the harp | Douay-Rheims; confitendo "by confessing"; citharœdi "harpers" | Ps 42 |
+| tabernaculum non manufactum | the tabernacle not made with hands | after II Cor. v, 1 | Ps 42 |
+| declarare | to declare | explicare stays "to explain" | Ps 42 |
+| refugium habere ad | to have recourse to | Ps. xlii, 1, commentary | Ps 42 |
