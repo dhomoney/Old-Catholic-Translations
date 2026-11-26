@@ -907,3 +907,16 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | ex professo | of set purpose | | Suarez, De gratia, Proleg. I, cap. 1 (002) |
 | sustinere (actionem) | to hold back (an action) | set against exercere; not "sustain" | Suarez, De gratia, Proleg. I, cap. 1 (002) |
 | de Auxiliis | *Of the Helps* | Suarez's own work; auxilium (of grace) "help" | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| potentia activa / passiva | active / passive power | | Suarez, De gratia, Proleg. I, cap. 2 |
+| potestas | power | as potentia; the Latin is given beside it where the two are set against each other | Suarez, De gratia, Proleg. I, cap. 2 |
+| agens / patiens, passum | the agent / the patient | actio / passio "action / passion"; pati "to suffer" | Suarez, De gratia, Proleg. I, cap. 2 |
+| recipiens, receptio | the recipient, reception | receptivus "receptive" | Suarez, De gratia, Proleg. I, cap. 2 |
+| dominium; domina (sui actus) | dominion; mistress (of its act) | | Suarez, De gratia, Proleg. I, cap. 2 |
+| assertio | assertion | | Suarez, De gratia, Proleg. I, cap. 2 |
+| de ratione (potentiæ liberæ) esse | to be of the nature of | as ratio voluntarii | Suarez, De gratia, Proleg. I, cap. 2 |
+| cooperari, cooperatio | to co-operate, co-operation | | Suarez, De gratia, Proleg. I, cap. 2 |
+| mere passive se habere | to behave itself merely passively | Trent, sess. 6, can. 4 | Suarez, De gratia, Proleg. I, cap. 2 |
+| proxime / remote | proximately / remotely | proximum principium "proximate principle" | Suarez, De gratia, Proleg. I, cap. 2 |
+| gratia sanctificans | sanctifying grace | | Suarez, De gratia, Proleg. I, cap. 2 |
+| contritio (the act) | contrition | the Psalm rows keep the Douay-Rheims of each verse | Suarez, De gratia, Proleg. I, cap. 2 |
+| 1 p.; 1. 2; in corp.; ad 2 | Part I; Part I-II; in the body; ad 2 | St. Thomas's *Summa* | Suarez, De gratia, Proleg. I, cap. 2 |
