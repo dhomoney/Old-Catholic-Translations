@@ -866,3 +866,36 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | tabernaculum non manufactum | the tabernacle not made with hands | after II Cor. v, 1 | Ps 42 |
 | declarare | to declare | explicare stays "to explain" | Ps 42 |
 | refugium habere ad | to have recourse to | Ps. xlii, 1, commentary | Ps 42 |
+| magnalia | great works | mirabile opus "wonderful work" | Ps 43 |
+| annuntiare (Ps. xliii, 1) | to declare | Douay-Rheims | Ps 43 |
+| disperdere gentes (Ps. xliii, 3) | to destroy the Gentiles | Douay-Rheims; "nations" in the explanation | Ps 43 |
+| illuminatio vultus tui (Ps. xliii, 5) | the light of thy countenance | Douay-Rheims; illuminare vultum super aliquem "to cause the light of his countenance to shine upon" (Ps. lxvi, 2); benignus aspectus "a kindly look" | Ps 43 |
+| mandare salutes Jacob (Ps. xliii, 6) | to command the saving of Jacob (verse); "salvations" beside the Latin | Douay-Rheims; præcipere, jubere "to command, to bid" | Ps 43 |
+| Septuaginta seniores | the Seventy elders |  | Ps 43 |
+| vocativus casus | the vocative case |  | Ps 43 |
+| ventilare cornu (Ps. xliii, 7) | to push down with the horn (verse); "to toss with the horn" beside the Latin and in the explanation | Douay-Rheims | Ps 43 |
+| laudari (Ps. xliii, 10) / gloriari | to glory (verse); "to be praised" beside the Latin / to glory | Douay-Rheims; phrasis hebraica "a Hebrew phrase" | Ps 43 |
+| virtutes (Ps. xliii, 11) | armies (verse); "powers" beside the Latin | Douay-Rheims; virtus "power", robur "might", vires "strength" | Ps 43 |
+| avertere retrorsum post inimicos (Ps. xliii, 12) | to make turn the back to the enemies (verse); "to turn backward behind the enemies" beside the Latin | Douay-Rheims; note at the verse | Ps 43 |
+| oves escarum / oves occisionis (Ps. xliii, 13, 24) | sheep to be eaten / sheep for the slaughter | Douay-Rheims; macellum "the shambles", mactatio "slaughter" | Ps 43 |
+| multitudo in commutationibus (Ps. xliii, 14) | reckoning in the exchange (verse); "multitude in their exchanges" beside the Latin | Douay-Rheims; mancipia "slaves" | Ps 43 |
+| subsannatio et derisus / irrisiones (Ps. xliii, 15) | a scoff and derision / mockeries | Douay-Rheims; subsannari "to be scoffed at" | Ps 43 |
+| similitudo / parabola / proverbium (Ps. xliii, 16) | a byword (verse; also Ps. lxviii, 12); "similitude", "parable", "proverb" where the words are discussed | Douay-Rheims | Ps 43 |
+| commotio capitis (Ps. xliii, 16) | a shaking of the head | Douay-Rheims; agitatio capitis "wagging of the head" | Ps 43 |
+| verecundia / confusio (Ps. xliii, 17) | shame / confusion | Douay-Rheims; confundere (v. 9, 11) "to put to shame" | Ps 43 |
+| obloqui (Ps. xliii, 18) | to detract | Douay-Rheims | Ps 43 |
+| inique agere in testamento (Ps. xliii, 19) | to do wickedly in the covenant | Douay-Rheims; row Ps 24 | Ps 43 |
+| dii alieni / deus alienus | strange gods / a strange god | Douay-Rheims | Ps 43 |
+| declinare semitas (Ps. xliii, 20) | to turn aside the steps | Douay-Rheims; note at the verse on the negation | Ps 43 |
+| umbra mortis | the shadow of death | obscuritas "obscurity", tenebræ "darkness" | Ps 43 |
+| requirere (Ps. xliii, 23) | to search out | Douay-Rheims; "to require" at Ps. ix | Ps 43 |
+| mortificari (Ps. xliii, 24) | to be killed (verse); "to be put to death" in Rom. viii, 36 | Douay-Rheims in each place | Ps 43 |
+| charitas Christi (Rom. viii, 35) | the love of Christ | Douay-Rheims wording of the quotation; charitas elsewhere "charity" | Ps 43 |
+| humilitas (Ps. xliii, 27, commentary) | humiliation | row Ps 9 | Ps 43 |
+| quæstiunculæ | small questions |  | Ps 43 |
+| persona (in persona, personam induere) | person (in the person of, to put on the person of) |  | Ps 43 |
+| conflatorium / ventilabrum areæ | the fining-pot / the fan of the floor | Prov. xxvii, 21; Matt. iii, 12 (Douay-Rheims) | Ps 43 |
+| probare / probatio / tentare (Rom. v, 4; Sap. iii, 5-6) | to prove / trial / to try | Douay-Rheims | Ps 43 |
+| tolerare | to endure |  | Ps 43 |
+| declarare (ambiguitatem) | to clear | declarare elsewhere "to declare" (row Ps 42) | Ps 43 |
+| gentiles (imperatores) | Gentiles; Gentile (emperors) | Ethnici stay "Heathens" | Ps 43 |
