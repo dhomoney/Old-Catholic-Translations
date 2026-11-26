@@ -899,3 +899,11 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | tolerare | to endure |  | Ps 43 |
 | declarare (ambiguitatem) | to clear | declarare elsewhere "to declare" (row Ps 42) | Ps 43 |
 | gentiles (imperatores) | Gentiles; Gentile (emperors) | Ethnici stay "Heathens" | Ps 43 |
+| potentia (libera) / facultas | (free) power / faculty | kept apart | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| denominari, denominatio | to be denominated, denomination | | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| quoad specificationem / quoad exercitium | as to specification / as to exercise | | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| ab intrinseco / ab extrinseco | from within / from without | intrinsecus, extrinsecus (adj.) "intrinsic", "extrinsic" | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| determinatus ad unum | determined to one thing | | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| ex professo | of set purpose | | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| sustinere (actionem) | to hold back (an action) | set against exercere; not "sustain" | Suarez, De gratia, Proleg. I, cap. 1 (002) |
+| de Auxiliis | *Of the Helps* | Suarez's own work; auxilium (of grace) "help" | Suarez, De gratia, Proleg. I, cap. 1 (002) |
