@@ -920,3 +920,13 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | gratia sanctificans | sanctifying grace | | Suarez, De gratia, Proleg. I, cap. 2 |
 | contritio (the act) | contrition | the Psalm rows keep the Douay-Rheims of each verse | Suarez, De gratia, Proleg. I, cap. 2 |
 | 1 p.; 1. 2; in corp.; ad 2 | Part I; Part I-II; in the body; ad 2 | St. Thomas's *Summa* | Suarez, De gratia, Proleg. I, cap. 2 |
+| pro arcanis (Ps. xlv, 1) | for the hidden | Douay-Rheims; occultissima "most hidden" | Ps 45 |
+| virtus / fortitudo (Ps. xlv, 2, 4) | strength (verse, both); "strength (virtus), and fortitude" in the explanation; robur "might" | Douay-Rheims | Ps 45 |
+| fluminis impetus (Ps. xlv, 5) | the stream of the river (verse); "the rush of the river" beside the Latin; rivi "streams" | Douay-Rheims | Ps 45 |
+| Dominus virtutum (Ps. xlv, 8, 12) | the Lord of armies (verse); "the Lord of powers" beside the Latin; exercituum "of armies" | Douay-Rheims; row Ps 23 | Ps 45 |
+| prodigia (Ps. xlv, 9) | wonders (verse); "prodigies" where the word is discussed; admirationes "things to be wondered at" | Douay-Rheims | Ps 45 |
+| auferens bella (Ps. xlv, 10) | making wars to cease | Douay-Rheims | Ps 45 |
+| vacare, vacatio (Ps. xlv, 11) | to be still (verse); "to be at leisure", "leisure" in the explanation; otium sanctum "a holy leisure" | Douay-Rheims | Ps 45 |
+| perturbationes (sæculares) | perturbations | cupiditas there "covetousness", Latin beside it | Ps 45 |
+| Ecclesia militans / triumphans | the Church militant / triumphant | | Ps 45 |
+| infidelitas | unbelief | with infideles "unbelievers" | Ps 45 |

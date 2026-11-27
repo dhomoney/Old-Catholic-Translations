@@ -8,7 +8,7 @@ Site: <https://dhomoney.github.io/Old-Catholic-Translations/>. Each unit is publ
 
 | Work | Finished so far | Book |
 |---|---|---|
-| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–43 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
+| St. Robert Bellarmine, *Explanatio in Psalmos* | Psalms 1–43, 45 | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-psalms.epub) |
 | St. Robert Bellarmine, *Disputationes de controversiis christianae fidei* | Dedicatory epistle; Ad lectorem (second notice); Admonition on revision; Preface (parts 1 and 2); On the Word of God, book 1, chapters 1–3 (parts 6–8) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/bellarmine-controversiae.epub) |
 | St. Alphonsus Liguori, *Theologia moralis* | The author's notice to the reader (*Monitum*); dedication (second part); Tractate I, chapter 1 (part 3) | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/liguori-theologia-moralis.epub) |
 | St. Alphonsus Liguori, *Homo apostolicus* | Introduction and the author's end (*Finis auctoris*); Latin from OCR text only, not proofed against a scan | [PDF](https://dhomoney.github.io/Old-Catholic-Translations/liguori-homo-apostolicus.pdf) · [EPUB](https://dhomoney.github.io/Old-Catholic-Translations/liguori-homo-apostolicus.epub) |
