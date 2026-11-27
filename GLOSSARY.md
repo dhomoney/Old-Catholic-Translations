@@ -930,3 +930,32 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | perturbationes (sæculares) | perturbations | cupiditas there "covetousness", Latin beside it | Ps 45 |
 | Ecclesia militans / triumphans | the Church militant / triumphant | | Ps 45 |
 | infidelitas | unbelief | with infideles "unbelievers" | Ps 45 |
+| Sponsus / Sponsa | Bridegroom / Spouse | of Christ and the Church; "Veni, sponsa Christi": "Come, Spouse of Christ" | Ps 44 |
+| epithalamium | marriage song | | Ps 44 |
+| eructavit (Ps. xliv, 2) | hath uttered (verse); "hath belched forth" beside the Latin; ructus "a belch" | Douay-Rheims | Ps 44 |
+| speciosus forma (Ps. xliv, 3) | beautiful (verse); "beautiful in form" in the explanation | Douay-Rheims; formosus "fair" | Ps 44 |
+| species / pulchritudo (Ps. xliv, 5) | comeliness / beauty | Douay-Rheims; decor "comeliness" (row Ps 28), species sapientiæ "the fairness of wisdom" | Ps 44 |
+| intende (Ps. xliv, 5) | set out (verse); intende sagittas "bend the arrows" | Douay-Rheims | Ps 44 |
+| illustratio (divina) | enlightening | | Ps 44 |
+| astutia / malitia (diaboli) | craft / malice | | Ps 44 |
+| virga directionis (Ps. xliv, 7) | a sceptre of uprightness (verse); "the rod of uprightness" beside the Latin | Douay-Rheims | Ps 44 |
+| gutta (Ps. xliv, 9) | stacte (verse); "a drop" beside the Latin | Douay-Rheims; aromata "spices" | Ps 44 |
+| domus eburneæ | the ivory houses | "house of ivory" in III Kings xxii, 39 and Amos iii, 15 | Ps 44 |
+| in honore tuo (Ps. xliv, 10) | in thy glory (verse); "in thy honour" in the explanation | Douay-Rheims | Ps 44 |
+| astitit (Ps. xliv, 10) | stood (verse); assistere "to stand by" | Douay-Rheims | Ps 44 |
+| repudium | being put away | | Ps 44 |
+| vultum deprecari (Ps. xliv, 13) | to entreat the countenance; facies "face" | Douay-Rheims | Ps 44 |
+| fimbriæ aureæ / vestis variegata | golden borders / a garment of divers colours | Ps. xliv, 14-15 | Ps 44 |
+| interpunctio | pointing | of the division of the verse; puncta "the points" | Ps 44 |
+| proximæ ejus (Ps. xliv, 15) | her neighbours | Douay-Rheims | Ps 44 |
+| integritas (virginalis) | integrity | | Ps 44 |
+| jubilus | jubilation | | Ps 44 |
+| biblia recognita | the Bible revised | of the Sixto-Clementine Vulgate | Ps 44 |
+| disceptatio | controversy | disputatio stays "disputation" | Controversiae, De verbo Dei I, 4 |
+| explorata auctoritas | assured authority | exploratus error "an undoubted error" (De verbo Dei I, 3) | Controversiae, De verbo Dei I, 4 |
+| ordo (librorum) | order | the three orders of the sacred books | Controversiae, De verbo Dei I, 4 |
+| Regum / Paralipomenon / Cantica | Kings / Paralipomenon / Canticles | Douay-Rheims book names; Josue, Esdras and Nehemias, Tobias, Machabees, Apocalypse | Controversiae, De verbo Dei I, 4 |
+| recensere (libros) | to recount | enumerare "to number" | Controversiae, De verbo Dei I, 4 |
+| prologus Galeatus / Pastor (Hermetis) | the *Helmeted Prologue* / the *Shepherd* | titles of works, in italics | Controversiae, De verbo Dei I, 4 |
+| explicatio symboli | the *Explanation of the Creed* | Rufinus; a title, in italics | Controversiae, De verbo Dei I, 4 |
+| juxta fidem (summæ Conciliorum) | according to | | Controversiae, De verbo Dei I, 4 |
