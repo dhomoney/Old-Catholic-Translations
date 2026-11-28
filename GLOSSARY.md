@@ -1006,3 +1006,22 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | maledicentia | evil speaking | | Ps 49 |
 | scandalum ponere (Ps. xlix, 20) | to lay a scandal | Douay-Rheims; probrum "a disgrace", convicium "a reviling" | Ps 49 |
 | cœlites | the heavenly citizens | | Ps 49 |
+| quando introivit ad Bethsabee (title of Ps. l) | after he had sinned with Bethsabee (title); "when he went in to Bethsabee" in the explanation, with a note | Douay-Rheims | Ps 50 |
+| dele iniquitatem meam | blot out my iniquity | Douay-Rheims; scripturæ "writings" | Ps 50 |
+| pietas Dei, pietas divina | the loving-kindness of God, the divine loving-kindness | as Ps 35; also in the collect of the XI Sunday after Pentecost | Ps 50 |
+| amplius lava me | wash me yet more | Douay-Rheims | Ps 50 |
+| contra me (Ps. l, 5) | before me | Douay-Rheims | Ps 50 |
+| tibi soli peccavi | to thee only have I sinned | Douay-Rheims; contra te solum "against thee only" | Ps 50 |
+| incerta et occulta sapientiæ tuæ | the uncertain and hidden things of thy wisdom | Douay-Rheims | Ps 50 |
+| ossa humiliata | the bones that have been humbled | Douay-Rheims | Ps 50 |
+| mundities | cleanness | cor mundum "a clean heart" | Ps 50 |
+| in visceribus meis | within my bowels | Douay-Rheims | Ps 50 |
+| cupiditas (against charitas) | cupidity | distorta "crooked"; dirigitur "is made straight" | Ps 50 |
+| spiritu principali | with a perfect spirit (verse); "princely spirit" in the explanation, with a note | Douay-Rheims | Ps 50 |
+| de sanguinibus | from blood (verse); "from bloods" with the Latin where he treats the plural | Douay-Rheims | Ps 50 |
+| exultabit lingua mea | my tongue shall extol | Douay-Rheims | Ps 50 |
+| spiritus contribulatus / cor contritum | an afflicted spirit / a contrite heart | Douay-Rheims | Ps 50 |
+| benigne fac | deal favourably | Douay-Rheims; beneplacitum "good pleasure" | Ps 50 |
+| holocausta (Ps. l, 21) | whole burnt offerings | Douay-Rheims; "burnt offerings" at verse 18 | Ps 50 |
+| justitia imputativa | imputative justice | of the heretics | Ps 50 |
+| reparatio (of David) | restoration | | Ps 50 |
