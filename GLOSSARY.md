@@ -1025,3 +1025,14 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | holocausta (Ps. l, 21) | whole burnt offerings | Douay-Rheims; "burnt offerings" at verse 18 | Ps 50 |
 | justitia imputativa | imputative justice | of the heretics | Ps 50 |
 | reparatio (of David) | restoration | | Ps 50 |
+| pro Macheleth (title of Ps. lii) | for Macheleth | Bellarmine's spelling kept; the Douay-Rheims has "Maeleth" (note) | Ps 52 |
+| intelligentia David (title of Ps. lii) | understanding to David | the Douay-Rheims has "understandings" after the Vulgate's intelligentiæ (note) | Ps 52 |
+| vox non interpretata | a word not interpreted | | Ps 52 |
+| chorus | choir | Douay-Rheims, Ps. cl, 4 | Ps 52 |
+| insipientia (generis humani) | folly | insipiens "fool" (Ps 13) | Ps 52 |
+| dissipare ossa (Ps. lii, 7) | to scatter the bones | Douay-Rheims | Ps 52 |
+| qui hominibus placent (Ps. lii, 7) | them that please men | Douay-Rheims | Ps 52 |
+| simulator / adulator | dissembler / flatterer | | Ps 52 |
+| timor humanus sive mundanus | human, or worldly, fear | | Ps 52 |
+| machinationes | devices | | Ps 52 |
+| avertere / convertere captivitatem | to turn away / to bring back the captivity | Douay-Rheims, Ps. xiii, 7 and lii, 8 | Ps 52 |
