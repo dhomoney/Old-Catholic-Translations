@@ -1053,3 +1053,22 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | orbitas | childlessness | | Ps 51 |
 | punctum (in a verse) | point | constituitur punctum "a point is set"; interpunctiones "pointings" | Ps 51 |
 | Levit. | *Lev.* | citation label | Ps 51 |
+| dubium negativum / positivum; speculativum / practicum | negative / positive doubt; speculative / practical doubt | practice dubius "practically doubtful" | Theologia moralis, Tr. I, cap. 2 |
+| possidere (lex, libertas, votum possidet) | to be in possession | of a person holding a thing: "to possess" | Theologia moralis, Tr. I, cap. 2 |
+| Melior est conditio possidentis | The condition of the possessor is the better | | Theologia moralis, Tr. I, cap. 2 |
+| standum est pro | we must stand for | possessio stat pro "possession standeth for" | Theologia moralis, Tr. I, cap. 2 |
+| principium reflexum | reflex principle | | Theologia moralis, Tr. I, cap. 2 |
+| formido (de opposito) | fear (of the opposite) | | Theologia moralis, Tr. I, cap. 2 |
+| dubium deponere | to lay aside the doubt | | Theologia moralis, Tr. I, cap. 2 |
+| licitum / illicitum | lawful / unlawful | | Theologia moralis, Tr. I, cap. 2 |
+| possessor bonae fidei | a possessor in good faith | | Theologia moralis, Tr. I, cap. 2 |
+| pro rata dubii | in proportion to the doubt | | Theologia moralis, Tr. I, cap. 2 |
+| assensus opinativus | opinative assent | | Theologia moralis, Tr. I, cap. 2 |
+| constare (moraliter, certo) | to be established | | Theologia moralis, Tr. I, cap. 2 |
+| damnum | damage | | Theologia moralis, Tr. I, cap. 2 |
+| petere / reddere (debitum coniugale) | to ask / to render | | Theologia moralis, Tr. I, cap. 2 |
+| infertur / quaeritur | it is inferred / it is asked | | Theologia moralis, Tr. I, cap. 2 |
+| lex positiva / prohibitiva | positive / prohibitive law | | Theologia moralis, Tr. I, cap. 2 |
+| rudis | rude | | Theologia moralis, Tr. I, cap. 2 |
+| Contin. Tournely, Palaus, Croix / La-Croix, Laym., Tamb., Fill., Burg., Reb., Villal., Boss. | the Continuator of Tournely, Palaus, La Croix, Laymann, Tamburini, Filliucci, Burghaber, Rebello, Villalobos, Bossius | Castropal. stays "Castropalao" | Theologia moralis, Tr. I, cap. 2 |
+| r. (in references) | resol. (Diana); resp. (Roncaglia, Continuator of Tournely) | d. after c. in Busembaum is "doubt" | Theologia moralis, Tr. I, cap. 2 |
