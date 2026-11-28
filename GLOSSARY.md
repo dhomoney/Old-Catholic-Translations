@@ -959,3 +959,10 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | prologus Galeatus / Pastor (Hermetis) | the *Helmeted Prologue* / the *Shepherd* | titles of works, in italics | Controversiae, De verbo Dei I, 4 |
 | explicatio symboli | the *Explanation of the Creed* | Rufinus; a title, in italics | Controversiae, De verbo Dei I, 4 |
 | juxta fidem (summæ Conciliorum) | according to | | Controversiae, De verbo Dei I, 4 |
+| plaudite manibus / jubilate (Ps. xlvi, 2) | clap your hands / shout | Douay-Rheims; plausus "clapping", exultatio "exultation" in the explanation | Ps 46 |
+| in jubilo (Ps. xlvi, 6) | with jubilee | Douay-Rheims; II Kings vi, 15 "with joyful shouting", note there | Ps 46 |
+| species Jacob | the beauty of Jacob | Douay-Rheims | Ps 46 |
+| psallite sapienter | sing ye wisely | Douay-Rheims; psallite "sing praises" / "sing ye" as the verse | Ps 46 |
+| dii fortes terræ | the strong gods of the earth | Douay-Rheims; scuta "shields", protectores "protectors", magistratus "magistrates" | Ps 46 |
+| asportatio arcæ | the carrying of the ark | | Ps 46 |
+| in numero multitudinis | in the plural number | | Ps 46 |

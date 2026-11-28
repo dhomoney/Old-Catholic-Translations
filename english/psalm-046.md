@@ -1,0 +1,103 @@
+# PSALM XLVI.
+
+<!-- Translated from latin/psalm-046.md (Scribe branch agent/mose-scribe--mwp7hse4, commit 3533104). Source: bellermine-on-psalms-1.pdf, PDF pp. 318-321 (printed pp. 307-310). Paragraphs, page markers and marginal glosses follow the Latin file one for one. Translator's notes are footnotes; they are not Bellarmine's. -->
+
+<!-- p. 307 (PDF 318) -->
+
+BELLARMINE'S EXPLANATION.
+
+PSALM XLVI.
+
+## TITLE AND ARGUMENT.
+
+*Unto the end, a Psalm for the sons of Core.*
+
+[Margin: This Psalm is to be understood of the ascension.]
+
+The title containeth nothing new, but of the argument there may be a question: for there are not wanting some of the more recent writers who judge that the Psalm is to be expounded to the letter of the carrying of the ark of the covenant unto mount Sion by David. And they are moved by this reason, that as in this Psalm it is written: "God is ascended with jubilee, and the Lord with the sound of trumpet;" so it is written II *Kings* vi: "They brought the ark of the covenant of the Lord with joyful shouting, and with sound of trumpet;"[^1] and for the word *ducebant* (they brought), in the Hebrew there is מעלים *mahalim,* that is, *ascendere fecerunt* (they made to ascend). But the holy Fathers, as Chrysostom, Jerome, Augustine, and with them Theodoret and Euthymius, have made no mention of the ark, and have simply taken the whole Psalm of the victory and ascension of Christ. Their opinion seemeth to us the one to be followed, both for their authority, and because, if it treated to the letter of the carrying of the ark alone, there would be no need to invite all nations to gladness; neither are the things which are said in the II book of *Kings,* chap. vi, like to those which are said in this Psalm: for there it is said: "They made the ark to ascend;" here it is said: "God is ascended;" and again it is repeated, "and the Lord with the sound of trumpet:" now these are very different, "they made the ark to ascend," and "God is ascended;" for the former is rightly rendered by the word *ducebant* (they brought), which properly befitteth an ark of wood, which is not moved unless it be carried by another; but *ascendit Deus* (God is ascended) is referred to him who went up on high by his own power.
+
+<!-- p. 308 (PDF 319) -->
+
+## EXPLANATION OF THE PSALM.
+
+[Margin: Verse 1.]
+
+**1. O CLAP YOUR HANDS, ALL YE NATIONS: SHOUT UNTO GOD WITH THE VOICE OF JOY.**[^2]
+
+The holy Prophet inviteth all nations to show the gladness of their mind by voice and by gestures: he inviteth all nations, because the glory of the head is common to the whole body; and the body comprehendeth not the Jews alone, but the nations also: for the Church, which is the body of Christ, is spread through the whole world. And whereas he inviteth to clap the hands, it doth not signify that a bodily noise is to be made, as St. Chrysostom hath rightly admonished, but it is a metaphorical manner of speech, which showeth that we are to rejoice and be glad, as they do who leap for joy, and raise a noise with their hands and cries with their voice: for the same Prophet is wont to invite to clapping and exultation not men alone, but also the heaven, and the earth, and the rivers, and the mountains, and the trees, *Ps.* xcv: "Let the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof; the fields and all things that are in them shall be joyful: then shall all the trees of the woods rejoice before the face of the Lord, because he cometh;" and in *Ps.* xcvii: "The rivers shall clap their hands, the mountains shall rejoice together at the presence of the Lord:" all which things are metaphorical, neither do they signify anything else than the exceeding gladness of mind of a man desiring, if it could be, that all things should rejoice together with him. Neither is that to be passed over which St. Augustine admonisheth, that the joy of those only is pleasing to God who clap with their hands and exult with their voice, that is, who by good works and by the voice of praise testify that they rejoice in the Lord.
+
+[Margin: Verse 2.]
+
+**2. FOR THE LORD IS HIGH, TERRIBLE: A GREAT KING OVER ALL THE EARTH.**
+
+The Prophet giveth the reason why he hath invited all nations to clap and to exult: and first he draweth a reason from the greatness of Christ, whom he saith to be "high" by reason of his divinity, "terrible" by reason of his power, and "a great king" by reason of his providence and government. "For," saith he, "the Lord is high," that is, with clapping and exultation shout unto God, all ye nations, for God, and our Lord Christ, is high, or *altissimus* (most high), as St. Jerome rendereth it, as to his divine nature, by reason of which he far excelleth all created things. Likewise, for he is "terrible," as to his power, since he is truly almighty, and nothing can resist him. Lastly, because he is "a great king over all the earth," as to his government, since he is the supreme, and absolute, and universal ruler of the whole earth.
+
+[Margin: Verse 3.]
+
+**3. HE HATH SUBDUED THE PEOPLE UNDER US; AND THE NATIONS UNDER OUR FEET.**
+
+He draweth another reason from the benefit which he bestowed upon his Church in the beginning, when he brought her out of the land of Egypt; for then God, or Christ according to the form of God, brought the people into the land of promise, and subdued the peoples and nations which possessed those places under his own people, and caused them in very deed to tread with their feet upon the necks of the kings of those nations, as is written in the book of *Josue,* chap. i.[^3]
+
+[Margin: Verse 4.]
+
+**4. HE HATH CHOSEN FOR US HIS INHERITANCE, THE BEAUTY OF JACOB WHICH HE HATH LOVED.**
+
+He draweth a third reason from another benefit, whereby the same God, Christ, after the Chanaanites had been cast out, and his people brought into their land, chose for himself as a peculiar and proper inheritance the primitive Church, out of the Jews that believed, that is, the Apostles and the rest of the disciples. "He hath chosen," saith he, "for us," that is, in us, or out of us, "an inheritance for himself," to wit, a peculiar people: "the beauty of Jacob which he hath loved," that is, he chose a certain surpassing beauty of the Jewish people, which is called Jacob, which beauty he deservedly loved, and therefore out of that people he himself appointed for himself the Church, as his own proper inheritance. It is to be observed from this place, that in the Jewish people there were very many of a stiff neck, and given to idolatry, and thereby at length rejected; but that there were also most holy Patriarchs, whose spiritual beauty of faith and manners God greatly loved. Whence also the Apostle saith, *Rom.* xi, that the Jews were most dear to God for the sake of the fathers, and that the Church out of the Jews is the good olive tree, of which some branches were broken off for unbelief, and that into their place were ingrafted the Gentiles converted to the faith, whom he calleth wild olives, and to the same Gentiles, now faithful, he saith: "And if some of the branches be broken, and thou, being a wild olive, art ingrafted in them, and art made partaker of the root, and of the fatness of the olive tree, boast not against the branches: but if thou boast, thou bearest not the root, but the root thee." This therefore is the beauty of Jacob which God chose, and for the sake of which he chose for himself an inheritance out of the people of the Jews, to which he afterward joined the multitude of the nations. In the Hebrew copy we now have: *Elegit nobis hæreditatem nostram* (He hath chosen for us our inheritance); but the Seventy Interpreters, who rendered *hæreditatem sibi* (an inheritance for himself), without doubt did not read חלהנכו[^4] *nachalathenu,* which signifieth *hæreditatem nostram* (our inheritance), but נחלתו *nachalatho,* or נחלה לו *nachela lo,* which is *hæreditatem sibi* (an inheritance for himself). And it was easy for the text to be changed after the times of the Seventy Interpreters, by reason of the likeness of the letters. Certainly the meaning which the Seventy Interpreters have given is much clearer than that which the more recent writers now gather from the Hebrew. For what *elegit nobis hæreditatem nostram* (he hath chosen for us our inheritance) may be, can scarcely be understood, but *elegit in nobis hæreditatem sibi* (he hath chosen in us an inheritance for himself) is most easily understood.
+
+[Margin: Verse 5.]
+
+**5. GOD IS ASCENDED WITH JUBILEE, AND THE LORD WITH THE SOUND OF TRUMPET.**
+
+This is the fourth reason why it behoveth us to clap and to exult, to wit, because, after that the Lord
+
+<!-- p. 309 (PDF 320) -->
+
+"chose for himself an inheritance" in the people of the Hebrews, that is, began his Church in the Apostles and Disciples, who were all Hebrews, he ascended into heaven, and carried up our nature, indissolubly united to his own person, above all the heavens, above all the angels, and above all creatures. For although in this Psalm it is not expressed whither he ascended, yet it is expressed in *Ps.* lxvii: "He ascended on high, he led captivity captive;"[^5] and in the same place: "He mounteth above the heavens of heavens, to the east."[^6] He saith therefore: "God is ascended," that is, Christ ascended into heaven, but he ascended by his own power, because he was God; for therefore he saith, "God is ascended." That, *with jubilee, and with the sound of trumpet,* is to be understood of the spiritual jubilee and sound of the angels: for, as Chrysostom noteth, as far as concerneth bodily noise, he ascended in silence, the Apostles looking on and wondering; and perhaps the choirs of angels were not seen nor heard, as they were at the nativity, that the Apostles might be distracted by no other thing, but might be wholly intent upon considering the greatness of the mystery, while they saw human nature, to which it had been said, *Gen.* iii: "Dust thou art, and into dust thou shalt return," now clothed with exceeding glory and immortality, ascend above all the heavens: but yet it cannot be doubted but that legions of angels were present, with unspeakable jubilee conducting the Lord of glory into his glory.
+
+[Margin: Verse 6.]
+
+**6. SING PRAISES TO OUR GOD, SING YE: SING PRAISES TO OUR KING, SING YE.**
+
+[Margin: Verse 7.]
+
+**7. FOR GOD IS THE KING OF ALL THE EARTH: SING YE WISELY.**
+
+Before he subjoineth the fifth reason, out of wonder at the ascension he provoketh all to praise God, and to signify his affection[^7] he saith it not once only, but repeateth it again and again: "Sing praises," saith he, "to our God, sing ye: sing praises to our king, sing ye," that is, sing praises to the Lord, because he is our God; surely sing ye, because he is our king, and a third time sing ye, because he is not only our king, but because he is "the king of all the earth." Nor sing ye only often, but also "wisely," that is, attentively and considerately, that in nothing there be error; for the office which is rendered to the supreme King ought to be rendered with all diligence. See on this matter St. Bernard, sermons 7 and 47 *on the Canticles.* By the word *wisely* is also signified, as Chrysostom and Augustine admonish, that he who singeth the Psalms should understand what he singeth, and that from the understanding of the mysteries the affection of piety toward God should be moved. In which matter there seemeth at this time to be no light sin committed by those who have taken upon them the office of singing in the Church.
+
+[Margin: Verse 8.]
+
+**8. GOD SHALL REIGN OVER THE NATIONS: GOD SITTETH ON HIS HOLY THRONE.**
+
+[Margin: Christ is foretold as about to have dominion over the whole world.]
+
+The fifth reason is set down in this place why it behoveth us to sing and to shout unto God with the voice of joy, to wit, because Christ, after that he ascended into heaven, preached the Gospel by his Apostles to the whole world, and brought the Gentiles to his kingdom. "God," saith he, "shall reign over the nations," that is, Christ God, not content with the inheritance which he gained for himself out of the people of the Jews, shall reign also over the nations, when through the preaching of the Apostles all nations shall bow their necks to the yoke of faith. But meanwhile he "sitteth on his holy throne," that is, he sitteth at the right hand of the Father, which is the most holy throne of the kingdom of God, that is, most just, and one upon which no iniquity can fall. It is also called the holy throne of God, because the soul of the just man is the throne of wisdom, and God sitteth upon the Cherubim, who are most holy and most blessed spirits.
+
+**9. THE PRINCES OF THE PEOPLE ARE GATHERED TOGETHER, WITH THE GOD OF ABRAHAM: FOR THE STRONG GODS OF THE EARTH ARE EXCEEDINGLY EXALTED.**
+
+[Margin: The fortitude of the Apostles.]
+
+He declareth what he said: "God shall reign over the nations." For this was to come to pass, because through the preaching of the Apostles "the princes of the people," together with their own peoples, were to become faithful, and, forsaking the gods of their fathers, were to be gathered together with the God of Abraham, who alone is the true God. This therefore is what he saith: "The princes of the people," to wit, of the Gentiles, "are gathered together with the God of Abraham," that is, they have come together with the God of Abraham, that he might be their God, and they might be his people. Now he nameth the God of Abraham, to distinguish him from the gods which the divers nations adopted for themselves when idolatry entered into the world, at which time the worship of the true God was left with the family of Abraham. In the Hebrew text it is read: *Populus Dei Abraham* (The people of the God of Abraham), for that which we have, *cum Deo Abraham* (with the God of Abraham); but the Seventy Interpreters did not read *ham,* but *him*: for the same letters with one point signify *cum* (with),[^8] with another they signify *populus* (people). And even from this place it may be understood that the points are not everywhere rightly placed: for if we read as the Seventy Interpreters read, the sense is most clear; but if we read as it now is in the Hebrew, there will be no sense, or a most obscure one. For what is: "The princes of the people are gathered together, the people of the God of Abraham"? For this reading is now had in the Hebrew text. And that which followeth: "For the strong gods of the earth are exceedingly exalted," St. Augustine expoundeth of proud men, who did not come together with the God of Abraham, but became reprobate by reason of their pride. St. John Chrysostom expoundeth it of the Apostles, by whom the princes of the people were converted to the God of Abraham, so that the sense is: "The princes of the people are gathered together with the God of Abraham, for the strong gods of the earth," that is, the Apostles, "are exceedingly exalted," since they were filled with the gifts of wisdom, and of fortitude, and of miracles unto so great an eminence that the princes of the people could not resist them. For truly the Apostles, filled with the Holy Ghost, were so strong that they overcame all dangers, all torments, all the power of the devil, and all
+
+<!-- p. 310 (PDF 321) -->
+
+the wisdom of the world. But it can also be understood fitly enough to the letter of the same princes of the people, so that the princes of the people and the strong gods of the earth are the same, and the sense is: "The princes of the people are gathered together with the God of Abraham," for they, who are as it were certain gods, and mighty upon the earth, are exceedingly exalted, whereas before they were through idolatry the servants of devils, and now they are made through faith the sons of the true and living God. In the Hebrew there is another reading: *Quoniam Dei scuta terræ valde elevatus est* (For God's are the shields of the earth, he is greatly exalted). And indeed the word *Dei* (of God) is in the genitive in the Greek also, from which some think that in the Latin text *Dei* is to be read, and that by an error of the copyists *dii* (gods) was put for *Dei.* But since St. Augustine, and St. Jerome in his Commentary, read *dii,* and the sense is far clearer, it is credible that the Greek readings were various, and that our Latin was translated from a more correct Greek, especially since no variety is found in the Latin manuscript copies, but in all of them *dii* is read. And that, *scuta terræ* (the shields of the earth), may also be rendered from the Hebrew *protectores* (protectors), or *magistratus terræ* (the magistrates of the earth), as the skilled easily understand from chap. iv of *Osee,* verse 18, where this same word מגני *maginne,* which in this place St. Jerome rendereth *scuta* (shields), is rendered by the same Jerome *protectores* (protectors). And since protectors, or magistrates, have power over others, it ought not to seem strange if the Seventy Interpreters, and the Latin Interpreter, put *fortes* (the strong). Therefore "the strong gods of the earth" are the princes, who after the manner of gods ought strongly to protect the earth that is subject to them. Lastly that, *elevatus est* (he is exalted), the Seventy rendered in the plural number, looking rather to the sense than to the word. For the sense is, *dii fortes terræ elevatus est* (the strong gods of the earth is exalted), that is, every one of them is exalted, which is more clearly rendered *elevati sunt* (are exalted). Neither is this new in the Hebrew tongue, but usual, as *Gen.* i, where we have: *Sint luminaria* (Let there be lights),[^9] in the Hebrew it is *sit luminaria* (let there be lights, with the verb in the singular); and *Ecclus.* x,[^10] where we read: *Muscæ morientes perdunt suavitatem unguenti* (Dying flies spoil the sweetness of the ointment), in the Hebrew it is read: *Muscæ morientes perdit suavitatem unguenti* (Dying flies spoileth the sweetness of the ointment). And *Gen.* xlix, where is found: *Filiæ discurrerunt super murum* (The daughters run to and fro upon the wall), in the Hebrew is found: *Filiæ discurrit* (The daughters runneth to and fro). As also, on the contrary, there is not seldom found in the Hebrew a noun of the singular number with a verb of the plural number, as *Agg.* ii, for that which we read: *Et veniet desideratus cunctis gentibus* (And the desired of all nations shall come), in the Hebrew there is: *Et venient desiderium gentium* (And the desire of the nations shall come, with the verb in the plural); and *Job* xv, where we have: *Numerus annorum incertus est* (The number of the years is uncertain), it is read in the Hebrew: *Numerus annorum reconditi sunt* (The number of the years are hidden). Therefore the words of this last verse, which according to the Hebrew letter seem to have no sense, have been most wisely rendered by the Seventy Interpreters and by our Latin Interpreter,
+
+[^1]: Translator's note: the words are in II *Kings* vi, 15. The Latin has *in jubilo* in both places; the Douay-Rheims Bible has "with jubilee" in the Psalm and "with joyful shouting" in II *Kings.*
+
+[^2]: Translator's note: Bellarmine does not number the title, and divides the Psalm into nine verses; the Douay-Rheims Bible has ten, and its verse 1 is the title. His 1 to 9 are its 2 to 10.
+
+[^3]: Translator's note: the treading upon the necks of the kings is in *Jos.* x, 24.
+
+[^4]: Translator's note: the Hebrew word is garbled in the print; נחלתנו is meant, as the transliteration shows.
+
+[^5]: Translator's note: Bellarmine's text has *Ascendit in altum, captivam duxit captivitatem,* which are the words of *Ephes.* iv, 8, with *Ascendit* for *Ascendens*; the Vulgate, *Ps.* lxvii, 19, has *Ascendisti in altum, cepisti captivitatem* (Thou hast ascended on high, thou hast led captivity captive).
+
+[^6]: Translator's note: Bellarmine's text has *Ascendit super cœlos cœlorum ad orientem*; the Vulgate, *Ps.* lxvii, 34, has *qui ascendit super cælum cæli, ad orientem* (Who mounteth above the heaven of heavens, to the east).
+
+[^7]: Translator's note: the print has *effectum* (effect); the sense points to *affectum* (affection), which is translated.
+
+[^8]: Translator's note: the print has *eum* (him); the Hebrew word so pointed means "with," and *cum* (with), the word of the verse, is translated.
+
+[^9]: Translator's note: Bellarmine's text has *Sint luminaria*; the Vulgate, *Gen.* i, 14, has *Fiant luminaria.*
+
+[^10]: Translator's note: the print has *Eccli.* x; the words are in *Eccles.* x, 1. The other places are *Gen.* xlix, 22; *Agg.* ii, 8; *Job* xv, 20.
