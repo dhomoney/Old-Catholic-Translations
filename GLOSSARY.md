@@ -966,3 +966,12 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | dii fortes terræ | the strong gods of the earth | Douay-Rheims; scuta "shields", protectores "protectors", magistratus "magistrates" | Ps 46 |
 | asportatio arcæ | the carrying of the ark | | Ps 46 |
 | in numero multitudinis | in the plural number | | Ps 46 |
+| secunda / prima Sabbati | the second / the first of the Sabbath | title in Douay-Rheims wording "on the second day of the week"; Latin beside it at first mention | Ps 47 |
+| laudabilis nimis (Ps. xlvii, 2) | exceedingly to be praised | Douay-Rheims; his own laudabilis valde "greatly to be praised" | Ps 47 |
+| latera Aquilonis / Aquilo | the sides of the north / the North wind | Douay-Rheims | Ps 47 |
+| suscipere (Ps. xlvii, 4) / susceptor | to protect (verse), "to take up" in the explanation, with a note / protector | Douay-Rheims | Ps 47 |
+| in spiritu vehementi | with a vehement wind | Douay-Rheims; note where he takes spiritus of the Holy Ghost | Ps 47 |
+| Dominus virtutum | the Lord of hosts | Douay-Rheims; exercituum "of armies" | Ps 47 |
+| magnalia | great works | | Ps 47 |
+| clima / terminus (of the Hebrew noph) | clime / boundary | | Ps 47 |
+| castella, oppida | strongholds, towns | | Ps 47 |
