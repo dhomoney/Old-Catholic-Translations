@@ -991,3 +991,18 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | infernus inferior | the lower hell | | Ps 48 |
 | quasi tristitia / quasi lætitia | as it were sorrow / as it were gladness | from II Cor. vi, 10 | Ps 48 |
 | resipiscentia | repentance | pœnitentia stays "penance" | Ps 48 |
+| species decoris (Ps. xlix, 2) | the loveliness of his beauty | Douay-Rheims; perfecti decoris "of perfect beauty" | Ps 49 |
+| manifeste veniet / non silebit (Ps. xlix, 3) | shall come manifestly / shall not keep silence | Douay-Rheims; tacui "I was silent" | Ps 49 |
+| conflagratio mundi | the burning of the world | | Ps 49 |
+| discernere populum suum (Ps. xlix, 4) | to judge his people | Douay-Rheims; Latin beside it in the explanation | Ps 49 |
+| testamentum / pactum | covenant / pact | ordinare "to set (in order)", disponere "to dispose", ferire pactum "to strike a pact"; note at Ps. xlix, 5 on super | Ps 49 |
+| holocausta (Ps. xlix, 8) | burnt offerings | Douay-Rheims; "holocausts" at I Kings xv, 22 | Ps 49 |
+| jumenta in montibus et boves | the cattle on the hills, and the oxen | Douay-Rheims; in montibus mille "on a thousand hills" | Ps 49 |
+| volatilia cœli | the fowls of the air | Douay-Rheims; cœlum aereum "the airy heaven" | Ps 49 |
+| universitas agri | the whole of the field | St. Jerome's rendering | Ps 49 |
+| sacrificium laudis | the sacrifice of praise | Douay-Rheims; immola "offer"; honorificare "to glorify" | Ps 49 |
+| in die tribulationis (Ps. xlix, 15) | in the day of trouble | Douay-Rheims | Ps 49 |
+| cum adulteris portionem ponere | to be a partaker with adulterers | Douay-Rheims | Ps 49 |
+| maledicentia | evil speaking | | Ps 49 |
+| scandalum ponere (Ps. xlix, 20) | to lay a scandal | Douay-Rheims; probrum "a disgrace", convicium "a reviling" | Ps 49 |
+| cœlites | the heavenly citizens | | Ps 49 |
