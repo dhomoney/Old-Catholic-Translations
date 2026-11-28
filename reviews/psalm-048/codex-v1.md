@@ -1,0 +1,21 @@
+# Psalm 48 — Codex review v1
+
+**CHANGES**
+
+English: `1ae1b40`, `english/psalm-048.md`. Latin: `48528b9`, `latin/psalm-048.md`.
+
+1. **Scribe intrusion from the margin; incorrect misprint note — verse 7 commentary, printed p. 321 / PDF 332, right column, line beginning “animæ”.** Current Latin: *superat enim pretium sanguis animæ humanæ omnia bona hujus mundi*. The body of the scan reads *superat enim pretium animæ humanæ omnia bona hujus mundi*; *sanguis* belongs to the adjacent margin, *Solus sanguis Christi pretium animæ esse potest*. It was inserted into the prose by transcription. Current English sense, “the price of a human soul surpasseth all the goods of this world,” is correct. Suggested fix: remove the intrusive *sanguis* from Latin; remove note 8, which wrongly says that the print contains the malformed sentence; renumber later notes and name the corrected Latin commit. Confirmed at 600 dpi in `/tmp/jo48-sanguis.png`.
+
+2. **Scribe intrusion from the margin, carried into English — verse 14 commentary, printed p. 323 / PDF 334, right column, lines beginning “nem impiorum” and “potentissimi”.** Current Latin: *quamvis in mundo ditissimi et quam potentissimi fuerint*. Scan body: *quamvis in mundo ditissimi et potentissimi fuerint*. The additional *quam* comes from the adjacent marginal gloss, *Minore labore Deus impios in infernum detrudit, quam oves ad macellum ducantur*. Current English: “though they have been most rich and as mighty as may be in the world”. Suggested fix: delete that second *quam* in Latin; translate “though they have been most rich and most mighty in the world”. Preserve *quam* in the margin and in the genuine comparison following *mortem sempiternam*. Confirmed at 600 dpi in `/tmp/jo48-potentissimi.png`.
+
+3. **Mistranslation / unclear recipient — verse 8 commentary.** Latin: *placatio enim Dei est pretium redemptionis, quod solus Unigenitus Dei dare potuit*. Current English: “for the ransom of God is the price of redemption, which the Only-begotten of God alone could give”. *Dei* is the object of appeasing: God receives the ransom; he is not the one being ransomed. The surrounding Latin expressly says *dabit Deo* and *ad placandum Deum*. Suggested fix, retaining the fixed word “ransom”: “for the ransom paid to God is the price of redemption, which the Only-begotten of God alone could give”. Alternatively, “for the appeasing of God…” makes the Latin relation explicit, as note 7 already explains.
+
+## Verification
+
+Independently compared the complete English against the Latin, including title, twenty-one lemmas, thirty-one margins, seventeen notes and sixteen Ps 48 glossary rows. Eighty-eight content blocks and all six page markers correspond. The English moves the two divided words to word boundaries, as STYLE 5 permits. The concordance and verse wording were checked against [Douay-Rheims Psalm 48](https://www.drbo.org/chapter/21048.htm). The question in verse 7, *prudentiam*, *vocaverunt nomina sua*, and *non sumet omnia* are transparently explained. The senseless/fool and strangers/aliens distinctions are preserved.
+
+Independently proofed Bellarmine's entire Latin against `bellermine-on-psalms-1.pdf`, PDF 331–336 (printed 320–325), excluding the editor's preceding apparatus and following parallel version. Full pages rendered at 2800-pixel height; margin intrusions and a doubtful verse-10 conjunction checked at 600 dpi. The *et* before *sepulcra* in verse 10 is genuinely printed and correctly transcribed. Apart from findings 1–2, the Latin matches the page images, including the Greek and Hebrew forms, page breaks and margins.
+
+The print confirms *nibil*, *calignis*, *intercompunctione*, *posteriore legitur* and the reported wrong references. These differ from the two margin intrusions above. The reference notes correctly identify Ecclesiastes x, 19; Psalm xv, 10; [Romans xiii, 12](https://www.drbo.org/chapter/52013.htm); [Isaias lxiii, 15](https://www.drbo.org/chapter/27063.htm); and Job i, 21. Note 12 transparently preserves the author's modified [Luke xii, 20 quotation](https://www.drbo.org/chapter/49012.htm). No further meaning-affecting mistranslation, omission, addition or doctrinal issue found.
+
+O'Sullivan and the other critic's review were not consulted.

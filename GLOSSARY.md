@@ -975,3 +975,19 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | magnalia | great works | | Ps 47 |
 | clima / terminus (of the Hebrew noph) | clime / boundary | | Ps 47 |
 | castella, oppida | strongholds, towns | | Ps 47 |
+| terrigenæ (Ps. xlviii, 3) | earthborn | Douay-Rheims | Ps 48 |
+| prudentia (Ps. xlviii, 4) | understanding (verse); "prudence" in the explanation, with a note | Douay-Rheims | Ps 48 |
+| propositio / problema / ænigma | proposition / problem / enigma | ænigmaticus "enigmatical", parabolicus "parabolical" | Ps 48 |
+| iniquitas calcanei mei | the iniquity of my heel | Douay-Rheims | Ps 48 |
+| placatio (Ps. xlviii, 8) | ransom | Douay-Rheims; ad placandum Deum "to appease God", placatio Dei "the appeasing of God", note at the verse | Ps 48 |
+| insipiens / stultus (Ps. xlviii, 11) | the senseless / the fool | Douay-Rheims here; insipientia "senselessness"; elsewhere insipiens "fool" (Ps 13) | Ps 48 |
+| interitus (Ps. xlviii, 11) | destruction | Douay-Rheims | Ps 48 |
+| alieni / extranei | strangers / aliens | | Ps 48 |
+| dives epulo, Epulo | the rich glutton, the Glutton | | Ps 48 |
+| habitaculum | habitation | as the Douay-Rheims at Isa. lxiii, 15; Hab. iii, 11; Eph. ii, 22; tabernacula (Ps. xlviii, 12) "dwelling places" | Ps 48 |
+| scandalum (Ps. xlviii, 14) | stumblingblock | Douay-Rheims; offendicula "occasions of stumbling" | Ps 48 |
+| depascet (Ps. xlviii, 15) | shall feed upon | Douay-Rheims; macellum "the shambles" | Ps 48 |
+| veterascet (Ps. xlviii, 15) | shall decay | Douay-Rheims; conteretur "shall be worn away" | Ps 48 |
+| infernus inferior | the lower hell | | Ps 48 |
+| quasi tristitia / quasi lætitia | as it were sorrow / as it were gladness | from II Cor. vi, 10 | Ps 48 |
+| resipiscentia | repentance | pœnitentia stays "penance" | Ps 48 |
