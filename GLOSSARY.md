@@ -1036,3 +1036,20 @@ Owner: the Translator. One Latin term, one English rendering, unless the note sa
 | timor humanus sive mundanus | human, or worldly, fear | | Ps 52 |
 | machinationes | devices | | Ps 52 |
 | avertere / convertere captivitatem | to turn away / to bring back the captivity | Douay-Rheims, Ps. xiii, 7 and lii, 8 | Ps 52 |
+| Doeg Idumæus | Doeg the Edomite | Douay-Rheims | Ps 51 |
+| delatio / deferre / delator | denunciation / to denounce / informer | accusatio stays "accusation" | Ps 51 |
+| cogitavit (Ps. li, 2) | hath devised | Douay-Rheims; Latin beside it once; cogitatio "thinking" in the explanation | Ps 51 |
+| præcipitatio (Ps. li, 4) | ruin (verse); "a casting headlong" in the explanation | Douay-Rheims; Latin kept where he discusses the word | Ps 51 |
+| æquitas (Ps. li, 3) | righteousness (verse), Latin beside it | Douay-Rheims; æquitas as a Latin word "equity" | Ps 51 |
+| benignitas (Ps. li, 3) | goodness | Douay-Rheims | Ps 51 |
+| emigrabit te (Ps. li, 5) | he will remove thee | Douay-Rheims; migrare faciet "he will make thee remove" | Ps 51 |
+| in finem (Ps. li, 5) | for ever | Douay-Rheims; in æternum beside it "for eternity" | Ps 51 |
+| sperare (Ps. li, 7, 8) | to trust (verse 7), to hope (verse 8) | Douay-Rheims | Ps 51 |
+| confitebor tibi (Ps. li, 9) | I will praise thee | Douay-Rheims; laudabo "I will laud" beside it | Ps 51 |
+| exspectare (nomen, Deum) | to wait on | Douay-Rheims | Ps 51 |
+| mendacium otiosum / officiosum / perniciosum | an idle / officious / pernicious lie | | Ps 51 |
+| viri cordati | prudent men | | Ps 51 |
+| radicitus | by the roots | | Ps 51 |
+| orbitas | childlessness | | Ps 51 |
+| punctum (in a verse) | point | constituitur punctum "a point is set"; interpunctiones "pointings" | Ps 51 |
+| Levit. | *Lev.* | citation label | Ps 51 |
